@@ -72,8 +72,8 @@ Plugin_Reason 插件: {0}
 Barricade 你的文件缺少一个该服务器正在使用的自定义障碍物(barricade)文件（{0}）。
 Structure 你的文件缺少一个该服务器正在使用的自定义结构(structure)文件（{0}）。
 Vehicle 你的文件缺少一个该服务器正在使用的自定义载具(vehicle)文件（{0}）。
-Client_Module_Desync 这个服务器缺少一个你的文件正在使用的自定义模块。
-Server_Module_Desync 你的文件缺少该服务器正在使用的一个自定义模块。
+Client_Module_Desync 这个服务器缺少一个你的文件正在使用的自定义模组。
+Server_Module_Desync 你的文件缺少该服务器正在使用的一个自定义模组。
 BattlEye_Broken BattlEye: 服务没有安装或没有正常运行，请从启动器中重新启动。如果你卸载了BattlEye或者跳过了安装步骤，那么你可以通过运行Unturned/BattlEye文件夹中的Install_BattlEye.bat脚本来重新安装它。
 BattlEye_Update BattlEye: 服务需要更新，请从启动器重新启动。
 BattlEye_Unknown BattlEye: 未知请求，请从启动器重新启动。
