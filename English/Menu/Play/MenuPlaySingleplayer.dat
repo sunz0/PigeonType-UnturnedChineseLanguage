@@ -1,0 +1,67 @@
+Play_Button 离线模式游玩
+Play_Button_Tooltip 旅行到这个地图。
+Browse_Servers_Label 查看服务器
+Browse_Servers_Tooltip 查找运行该地图的互联网服务器。
+
+Any_Button 任何模式
+Easy_Button 简单
+Normal_Button 普通
+Hard_Button 困难
+
+Config_Button 高级选项
+Config_Button_Tooltip 修改游戏配置。
+
+Reset_Button 重置世界
+Reset_Button_Tooltip 重置该地图上的单人游戏保存数据。
+Reset_Button_Confirm 重置
+Reset_Button_Confirm_Tooltip 这不能恢复！
+Reset_Button_Deny 取消
+Reset_Button_Deny_Tooltip 保留该地图上单人游戏的保存数据。
+
+Maps_Official 官方地图
+Maps_Official_Tooltip 由尼尔森制作
+Maps_Curated 被采纳的地图
+Maps_Curated_Tooltip 手工挑选的社区创建的更新内容
+Maps_Workshop 创意工坊地图
+Maps_Workshop_Tooltip 来自创意工坊的地图
+Maps_Misc 杂项
+Maps_Misc_Tooltip 来自事件和测试
+
+Retired_View_Label 在创意工坊查看
+Retired_View_Tooltip 在创意工坊查看此地图的信息
+Retired_Manage_Sub 订阅
+Retired_Manage_Unsub 取消订阅
+Retired_Manage_Tooltip 自动安装/卸载创意工坊内容。
+
+Manage_Workshop_Label Manage Subscriptions
+Manage_Workshop_Tooltip Manage Subscribed Files
+
+Tiny 极小
+Small 小
+Medium 中
+Large 大
+Insane 疯狂
+
+Curated_Map_Timed LIMITED
+Curated_Map_Timestamp {0}
+Curated_Map_Timestamp_Format MMM/dd/yy
+
+Cheats_Label Allow Cheatcodes
+
+Survival 生存
+Horde Horde [Alpha]
+Arena 竞技场
+
+Info_WithVersion {0} - {1} - v{2}
+
+Creators Created by:
+Collaborators Created in collaboration with:
+Thanks Special thanks to:
+Credits_Text If you are enjoying the {0} map considering supporting its creators by checking out the {1}! Further details available on the stockpile page.
+Credits_Tooltip Click here to view the stockpile page.
+Timed_Text This map has been officially featured from the Workshop until: <color=#00FF00>{0}</color> Afterwards it will remain available on the Steam Workshop.
+
+Feedback_Button Feedback & Bug Reports
+Feedback_Button_Tooltip Click here to view discussions.
+
+Overlay Steam overlay needs to be enabled.

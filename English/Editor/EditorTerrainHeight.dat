@@ -1,0 +1,21 @@
+AdjustUpButtonText Raise [{0}]
+AdjustUpButtonTooltip Adjust Up
+
+AdjustDownButtonText Lower [{0}]
+AdjustDownButtonTooltip Adjust Down
+
+SmoothButtonText Smooth [{0}]
+SmoothButtonTooltip Smooth
+
+FlattenButtonText Flatten [{0}]
+FlattenButtonTooltip Flatten
+
+SizeSliderLabelText Size
+NoiseSliderLabelText Noise
+StrengthSliderLabelText Strength
+
+HeightValueLabelText Height
+
+Map2ButtonText1 Primary
+Map2ButtonText2 Secondary
+Map2ButtonTooltip Landscape

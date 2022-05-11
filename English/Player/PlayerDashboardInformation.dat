@@ -1,0 +1,82 @@
+Zoom_In_Button 放大
+Zoom_In_Button_Tooltip 扩大地图
+
+Zoom_Out_Button 缩小
+Zoom_Out_Button_Tooltip 缩小地图
+
+Center_Button 中心
+Center_Button_Tooltip Focus Player
+
+Chart 地图
+Satellite 卫星地图(GPS)
+
+Quests 任务: {0}
+Quests_Tooltip 查看任务列表
+Groups 组
+Groups_Tooltip 查看组列表
+Players 玩家: {0}/{1}
+Players_Tooltip 查看玩家列表
+
+Group_Members 成员: {0}/{1}
+Group_Rename 重命名
+Group_Rename_Tooltip Submit New Name
+Group_Leave 离开组
+Group_Leave_Tooltip 退出组
+Group_Delete 删除组
+Group_Delete_Tooltip 删除组，踢掉所有组成员
+Group_Delete_Confirm 删除
+Group_Delete_Confirm_Tooltip 放弃组，踢走所有成员
+Group_Delete_Deny 取消
+Group_Delete_Deny_Tooltip 保留组
+Group_Join 加入
+Group_Join_Tooltip Accept Invite
+Group_Ignore 不加入
+Group_Ignore_Tooltip Cancel Invite
+Group_Create 创建新的组
+Group_Create_Tooltip Become Group Owner
+Group_Promote 提权
+Group_Promote_Tooltip Rank++
+Group_Demote 降权
+Group_Demote_Tooltip Rank--
+
+Radio_Frequency_Label Radio Frequency:
+Radio_Frequency_Tune Tune
+Radio_Frequency_Tune_Tooltip Adjust Frequency
+Radio_Frequency_Reset Reset
+Radio_Frequency_Reset_Tooltip Default Frequency
+
+Group_Rank_Member 成员
+Group_Rank_Admin 管理员
+Group_Rank_Owner 组长
+
+Streamer Streamer Mode
+Mute_On Mute
+Mute_Off Unmute
+Mute_Tooltip Mute/Unmute
+Vote_Kick Kick
+Vote_Kick_Tooltip Call Kick Vote
+Group_Kick Kick
+Group_Kick_Tooltip Remove Member
+Group_Invite Invite
+Group_Invite_Tooltip Send Group Invite
+Spy Spy
+Spy_Tooltip Screenshot
+
+SortPlayers_Name 按照名字首字母A-Z顺序排列
+SortPlayers_Group 按照组排列
+
+No_Chart 找不到地图
+No_GPS 找不到GPS
+
+Rep {0} [{1}]
+Rep_Neutral 中立
+Rep_Vigilante 义务兵
+Rep_Constable 警员
+Rep_Deputy Deputy
+Rep_Sheriff 警长
+Rep_Paragon Paragon
+Rep_Thug 暴徒
+Rep_Outlaw 法外之徒
+Rep_Gangster 匪徒
+Rep_Bandit 强盗
+Rep_Villain 恶棍
