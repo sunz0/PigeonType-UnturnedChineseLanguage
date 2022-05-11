@@ -1,2 +1,6 @@
 !/Bundles/Items/*/*/English.dat
 /Bundles/Items/*/*/*.dat
+/Bundles/core.masterbundle
+/Bundles/core.masterbundle.*
+/Bundles/MasterBundle.dat
+
