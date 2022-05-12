@@ -1,4 +1,5 @@
 # PigeonType-UnturnedChineseLanguage
+# 鸽式未转变者汉化
 ## 这是什么项目？
 这是一个在Github上的，所有人都可以参加的，Unturned翻译项目！
 ## 我该如何贡献？
@@ -58,3 +59,5 @@ Test4 English {1} {2} {3}
 如你所见，一些物品的文件还没上传到github。之后一个小鸽子会添加的！
 ### 注意事项
 - 在提交PR时务必要把版本对上号！如v3.28翻译必须提交到v3.28的分支上！（不过我会检查的，但是还是希望你们不要推错了！）
+### 贡献者：
+- 一个小鸽子 (https://github.com/YigeXiaogeziAwa/)
