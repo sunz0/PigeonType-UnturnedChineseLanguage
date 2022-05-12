@@ -21,7 +21,7 @@ ReadMore_Link_Off [折叠]
 Featured_Workshop_Link 在创意工坊查看
 Featured_Workshop_Sub 订阅
 Featured_Workshop_Unsub 取消订阅
-Featured_Workshop_Stockpile_Link 查看库存中的{0}
+Featured_Workshop_Stockpile_Link 查看 {0} 资源
 News_Author {0} - {1}
 News_Comments_Link 查看评论
 
@@ -66,8 +66,8 @@ Timed_Out 这个服务器失去了你的连接。
 Map 这个服务器正在运行一个你没有的地图。
 Shutdown 该服务器已被关闭。
 Shutdown_Reason 该服务器已被关闭，因为：{0}
-PingV2 Rejected because your calculated ping ({0}ms) exceeded the server maximum of {1}ms.
-Plugin 这台服务器正在运行一个插件，它过滤掉了你的账户。
+PingV2 你的延迟太高了！（{0}ms），超出了服务器的最大延迟限制（{1}ms）
+Plugin 这个服务器正在运行一个插件，它禁止你的账户进入此服务器。
 Plugin_Reason 插件: {0}
 Barricade 你的文件缺少一个该服务器正在使用的自定义障碍物(barricade)文件（{0}）。
 Structure 你的文件缺少一个该服务器正在使用的自定义结构(structure)文件（{0}）。
@@ -75,8 +75,8 @@ Vehicle 你的文件缺少一个该服务器正在使用的自定义载具(vehic
 Client_Module_Desync 这个服务器缺少一个你的文件正在使用的自定义模组。
 Server_Module_Desync 你的文件缺少该服务器正在使用的一个自定义模组。
 BattlEye_Broken BattlEye: 服务没有安装或没有正常运行，请从启动器中重新启动。如果你卸载了BattlEye或者跳过了安装步骤，那么你可以通过运行Unturned/BattlEye文件夹中的Install_BattlEye.bat脚本来重新安装它。
-BattlEye_Update BattlEye: 服务需要更新，请从启动器重新启动。
-BattlEye_Unknown BattlEye: 未知请求，请从启动器重新启动。
+BattlEye_Update BattlEye: 服务需要更新，请重启Steam。
+BattlEye_Unknown BattlEye: 未知请求，请重启Steam。
 Level_Version This server has {1} version {0} installed, whereas you have version {2}.
 Econ_Hash This server is running a different inventory version.
 Master_Bundle_Hash Asset bundle error: {0}
@@ -94,7 +94,7 @@ Name_Private_Number Your friends-only private nickname cannot be just a number.
 SteamNetworkingSockets_Unavailable_CannotTry 无法初始化Steam网络认证。
 SteamNetworkingSockets_Unavailable_Failed 初始化Steam网络认证失败。
 SteamNetworkingSockets_Unavailable_Previously 暂时无法初始化Steam网络认证。
-SteamNetworkingSockets_EndReason_App_1001 所有玩家名额、队列名额和待连接名额都已满员。
+SteamNetworkingSockets_EndReason_App_1001 所有玩家位置、队列位置和待连接位置都已满。
 SteamNetworkingSockets_EndReason_App_1002 服务器正在关闭过程中。
 SteamNetworkingSockets_EndReason_App_Unknown 游戏因未知原因结束连接：{0}
 SteamNetworkingSockets_EndReason_AppException_Generic Game ended the connection in an unusual manner.
@@ -122,6 +122,6 @@ Pro_Button_Tooltip Click here to view the store page.
 BattlEye_Header Warning: BattlEye(战眼) 已被禁用！
 BattlEye_Body BattlEye反作弊系统没有运行，所以你不能加入被BattlEye反作弊保护的服务器。如果你卸载了BattlEye或者跳过了安装步骤，那么你可以通过运行Unturned/BattlEye文件夹中的Install_BattlEye.bat脚本来重新安装它。
 
-Overlay Steam overlay needs to be enabled.
+Overlay Steam 游戏内置界面未被开启 [请使用Steam启动游戏]
 Dismiss_Notification_Label 确定
 Dismiss_Notification_Tooltip 关闭通知
