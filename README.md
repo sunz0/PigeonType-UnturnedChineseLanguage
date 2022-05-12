@@ -39,4 +39,20 @@
 | /Localization/Schinese/Menu/Play          | MenuPlaySingleplayer.dat      | 单人游戏页面                                   |
 | /Localization/Schinese/Menu/Play          | MenuServerPassword.dat        | 当服务器有密码保护让你输入密码的界面           |
 | 更多列表小鸽子正在咕咕咕更新中！         | 更多列表小鸽子正在咕咕咕更新中！        | 更多列表小鸽子正在咕咕咕更新中！           |
-
+## 怎么翻译？
+### Example
+```
+Test1 English
+Test2 English
+Test3 English {1}
+Test4 English {1} {2} {3}
+```
+"Test1~4"为开发者设置的名字，绝对不能更改！不然会导致UI不显示问题！
+"English"才是翻译文本，你只能修改这个！
+{1} 为替换符，绝对要格式对，不然会导致UI不显示问题！{}是英文！{1}中的数字也不能更改
+{1} {2} {3} 为多个替换符也不能更改，顶多因为翻译换一下顺序！
+### 具体的翻译过程
+Localization：点进指定文件 --> Edit --> Fork项目 --> 机翻一遍 --> 手动纠错 --> 提交PR --> 等待审核
+Maps：点进English.dat --> Edit --> Fork项目 --> 机翻一遍 --> 手动纠错 --> 把English.dat改成Schinese.dat（注意大小写） --> 提交PR --> 等待审核
+### 现处于Beta阶段
+如你所见，一些物品的文件还没上传到github。之后一个小鸽子会添加的！
