@@ -29,5 +29,5 @@ Seat 你可以通过按功能键[F1-F12]来调换车辆中的座位。
 Rarity 你的战利品的稀有性从最好的到最差的是 <color=mythical>神话</color> -> <color=legendary>传奇</color> -> <color=epic>史诗</color> -> <color=rare>稀有</color> -> <color=uncommon>不常见</color> -> <color=common>常见</color>
 Orientation 你可以通过按[{0}]来旋转你物品栏中的物品。
 Red 你的关键打击标记颜色设置也会影响发光瞄准器的颜色。
-Steady 你可以在瞄准时按住[{0}]来稳定你的瞄准镜。记住要考虑到子弹的下落和移动时间!
+Steady 你可以通过在瞄准时按住[{0}]来开启屏息，这会让你的瞄准镜稳定起来，但是这会缩小子弹的下降速度!
 Streamer 您可以通过修改StreamerNames.json文件来自定义Streamer(主播)模式中使用的名称，或许观众/用户名也能修改!
