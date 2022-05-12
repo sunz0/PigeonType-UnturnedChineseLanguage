@@ -30,25 +30,25 @@ Type_21 灯塔
 Type_22 植物
 Type_23 陷阱
 Type_24 结构
-Type_25 制作供应
-Type_26 Projectile
-Type_27 Growth Supplement
+Type_25 制作补给品
+Type_26 投掷物
+Type_27 生长剂
 Type_28 光学配件
-Type_29 Water Canister
+Type_29 水罐
 Type_30 钓鱼竿
-Type_31 Parachute
+Type_31 伞
 Type_32 地图
 Type_33 钥匙
-Type_34 Box
-Type_35 Catcher
-Type_36 Releaser
+Type_34 箱子
+Type_35 捕捉器
+Type_36 释放器
 Type_37 水源存储
 Type_38 发电机
 Type_39 远程触发器
 Type_40 远程爆炸物
-Type_41 经验存储
+Type_41 经验储存器
 Type_42 辐射过滤器
-Type_43 炮塔
+Type_43 自动炮塔
 Type_44 工具
 Type_45 工具
 Type_46 指南针
@@ -110,13 +110,13 @@ Swap_Skins_Tooltip Toggle Skins
 Swap_Mythics_Tooltip Toggle Mythics
 
 Vehicle_Lock_On 上锁 [{0}]
-Vehicle_Lock_Off 开锁 [{0}]
-Vehicle_Lock_Tooltip Keep out vehicle thieves.
-Vehicle_Horn Horn [{0}]
-Vehicle_Horn_Tooltip Warning audio.
-Vehicle_Headlights_On Headlights On [{0}]
-Vehicle_Headlights_Off Headlights Off [{0}]
-Vehicle_Headlights_Tooltip Bright for nighttime travel.
+Vehicle_Lock_Off 未上锁 [{0}]
+Vehicle_Lock_Tooltip 车门锁开关。
+Vehicle_Horn 喇叭 [{0}]
+Vehicle_Horn_Tooltip 喇叭
+Vehicle_Headlights_On 打开前照灯 [{0}]
+Vehicle_Headlights_Off 关闭前照灯 [{0}]
+Vehicle_Headlights_Tooltip 车头灯开关。
 Vehicle_Sirens_On Sirens On [{0}]
 Vehicle_Sirens_Off Sirens Off [{0}]
 Vehicle_Sirens_Tooltip Emergency audio.
