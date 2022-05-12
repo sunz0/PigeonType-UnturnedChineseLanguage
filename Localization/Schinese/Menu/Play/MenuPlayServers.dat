@@ -86,22 +86,22 @@ Monetization_NonGameplay_Button Non-Gameplay Monetization
 
 Any_Map 所有地图
 
-No_Servers 在主服务器上没有发现版本 {0} 的服务器。
+No_Servers 在主服务器上没有发现版本为 v{0} 的服务器。
 No_Servers_Hint 也许你的过滤器太具体了？
 Reset_Filters 重置过滤器
 Reset_Filters_Tooltip 将过滤设置改为默认值。
 
 Sort_Name 名称
-Sort_Name_Tooltip Sort by name.
+Sort_Name_Tooltip 按名称排序
 
 Sort_Map 地图
-Sort_Map_Tooltip Sort by map.
+Sort_Map_Tooltip 按地图排序
 
 Sort_Players 玩家
-Sort_Players_Tooltip Sort by players.
+Sort_Players_Tooltip 按玩家排序
 
 Sort_Ping Ping
-Sort_Ping_Tooltip Sort by ping.
+Sort_Ping_Tooltip 按延迟排序
 
 Favorite_On_Button_Tooltip 收藏
 Favorite_Off_Button_Tooltip 取消收藏
