@@ -3,31 +3,31 @@ Hotkey 你可以通过右键单击手槽中的项目，然后按数字键[3-9]�
 Equip 你可以通过按住[{0}]，同时右键点击一个物品来快速装备它。
 Drop 你可以通过按住[{0}]，同时左键点击它来快速丢弃一个物品。
 Sirens 作为司机，你可以通过按[{0}]打开/关闭警车的警报器。
-Transform 你可以按Ctrl+B复制编辑器中的变换，按Ctrl+N粘贴它们。
-Quality Your ranger weapons and attachments are more durable than their military counterparts.
+Transform 你可以在地图编辑器中按Ctrl+B复制建筑，然后按Ctrl+N粘贴建筑。
+Quality 你的俄制武器配件比军用武器配件更耐用
 Umbrella 你可以使用雨伞来降低你的下落速度，防止摔伤。
 Heal 你可以在持有医疗物品的情况下，通过右键点击其他玩家来治疗他们。
 Rotate 你可以在建造时通过按住右键同时拖动鼠标来旋转物体。
-Base 你的建家材料从最好的到最坏的是。 <color=epic>铁</color> -> <color=rare>砖</color> -> <color=rare>松树</color> -> <color=uncommon>枫木</color> -> <color=common>桦木</color>
+Base 你的建家材料从最好的到最差的是： <color=epic>金属</color> -> <color=rare>红砖</color> -> <color=rare>松木</color> -> <color=uncommon>枫木</color> -> <color=common>桦木</color>
 Dequip 你可以通过按[{0}]快速取消一个项目的装备。
 Nightvision 你可以通过按[{0}]打开/关闭夜视仪和头灯。
 Transfer 你可以通过按住[{0}]的同时右键，快速将一个物品转入/转出存储。
 Surface 你可以在游泳时通过按住[{0}]快速浮出水面。
-Arrest 你可以通过反复点击[{0}]和[{1}]来最终扭动你的身体，摆脱束缚。
+Arrest 你可以通过反复点击[{0}]和[{1}]来扭动你的身体，摆脱手铐的束缚。
 Safezone 你可以通过放置  <color=legendary>安全区辐射器</color> 来保护一个区域不受僵尸生成的影响，但它也会阻止物品生成。
 Claim 你可以通过放置一个 <color=legendary>Claim Flag</color> 来阻止玩家在一个区域内建造。
-Group 你可以和你的朋友一起加入一个小组，禁用友谊之火，分享可建造的东西，在地图上看到对方，并作为一个团队赢得竞技场。
+Group 你可以和你的朋友一起加入一个小组，禁用友军伤害与建筑保护，在地图上看到对方，并作为一个团队赢得竞技场。
 Map 如果你有 <color=uncommon>地图</color> 或 <color=epic>GPS</color>，你可以按[{0}]查看该地区的地图。
 Beacon 你可以通过放置 <color=legendary>尸潮生成器</color> 来召唤一波僵尸以获得大量战利品。
-Horn 你可以作为司机按[{0}]来使用车辆的喇叭。
-Lights 您可以作为驾驶员按[{0}]来打开/关闭车辆的大灯。
-Snap 你可以通过按住[{0}]来捕捉一个物体的位置和旋转。
+Horn 在行驶车辆时，你可以按[{0}]来使用车辆的喇叭。
+Lights 在行驶车辆时，你可以按[{0}]来打开/关闭车辆的灯。
+Snap 你可以通过按住[{0}]来切换物品的放置位置。
 Upgrade 你可以通过按住[{0}]，同时点击它来快速制作所有的物品或完全升级一个技能。
 Grab 你可以在与步枪架互动时按住[{0}]快速抓取一个物品。
-Skycrane 你可以在悬停在车辆上方时按下[{0}]来激活 <color=epic>Skycrane</color> 的电磁铁。
+Skycrane 你可以在 <color=epic>Skycrane</color> 载具上时按[{0}]来打开/关闭电磁铁。
 Seat 你可以通过按功能键[F1-F12]来调换车辆中的座位。
 Rarity 你的战利品的稀有性从最好的到最差的是 <color=mythical>神话</color> -> <color=legendary>传奇</color> -> <color=epic>史诗</color> -> <color=rare>稀有</color> -> <color=uncommon>不常见</color> -> <color=common>常见</color>
 Orientation 你可以通过按[{0}]来旋转你物品栏中的物品。
 Red 你的关键打击标记颜色设置也会影响发光瞄准器的颜色。
 Steady 你可以在瞄准时按住[{0}]来稳定你的瞄准镜。记住要考虑到子弹的下落和移动时间!
-Streamer You can customize the names used in streamer mode by modifying StreamerNames.json, maybe with viewer/subscriber names!
+Streamer 你可以通过在瞄准时按住[{0}]来开启屏息，这会让你的瞄准镜稳定起来，但是这会缩小子弹的下降速度!
