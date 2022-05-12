@@ -5,7 +5,7 @@ BattlEye_Insecure 战眼(BattlEye)已禁用
 Streamer Streamer Mode
 Offline 离线
 
-Loading_Level_Play 加载地图 {0} Unturned v{1} 在 {2} [{3}] 上...
+Loading_Level_Play 加载地图 {0} v{1} 在 {2} [{3}] 上...
 Loading_Level_Edit 加载中 {0}...
 
 Loading 加载中...
@@ -30,7 +30,7 @@ Object 对象(object)
 Resource 资源(resource)
 Vehicle 载具(vehicle)
 Animal 动物(animal)
-Mythic 神话(mythic)
+Mythic 特效(mythic)
 Skin 皮肤(skin)
 Spawn 生成表(spawn table)
 Map 地图(map)
