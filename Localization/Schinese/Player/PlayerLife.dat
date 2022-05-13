@@ -104,7 +104,7 @@ Not_Allowed_Here 在这里不允许
 Cannot_Build_On_Vehicle 不能在汽车上建筑
 Too_Far_From_Hull Too Far From Hull
 Cannot_Build_While_Seated Cannot Build While Seated
-Climb Climb [{0}]
+Climb 攀爬 [{0}]
 
 Chat_Global [世界频道] {0}: {1}
 Chat_Local [区域频道] {0}: {1}
