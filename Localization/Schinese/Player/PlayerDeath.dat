@@ -16,14 +16,14 @@ Freezing 你冻死了！
 Burning 你被烧死了！
 Food 你被饿死了！
 Water 你被渴死了！
-Gun 你被 {1} [{2}] 射中了 {0} 致死！
-Melee 你被 {1} [{2}] 砍中了 {0} 致死！
+Gun 你被 {1} [{2}] 射中了 {0} 而死！
+Melee 你被 {1} [{2}] 砍中了 {0} 而死！
 Zombie 你被僵尸咬死了！
 Animal 你被动物咬死了！
 Suicide 你自杀了，大家对你很失望！
 Kill 你被服务器管理员杀死了！
 Infection 你感染致死！
-Punch 你被 {1} [{2}] 打中了 {0} 致死！
+Punch 你被 {1} [{2}] 打中了 {0} 而死！
 Breath 你窒息致死！
 Roadkill 你被{1} [{2}] 撞死了！
 Vehicle 你被载具炸死了
@@ -35,7 +35,7 @@ Missile 你被 {0} [{1}] 的导弹炸飞了！
 Charge 你被 {0} [{1}] 的远程炸弹炸飞了！
 Splash 你被 {0} [{1}] 的爆炸子弹炸死了！
 Sentry 你被炮塔射死了！
-Acid 你被炸成了僵尸!
+Acid 你被僵尸炸死了
 Boulder 你被僵尸的巨石砸死了！
 Burner 你被僵尸烧死了！
 Spit 你被僵尸溶解死了！
