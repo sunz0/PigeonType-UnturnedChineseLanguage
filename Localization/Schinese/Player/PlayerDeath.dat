@@ -14,8 +14,8 @@ Bleeding 你流血致死了！
 Bones 你摔死了！
 Freezing 你冻死了！
 Burning 你被烧死了！
-Food 你被饿死了1
-Water 你被渴死了1
+Food 你被饿死了！
+Water 你被渴死了！
 Gun 你被 {1} [{2}] 射中了 {0} 致死！
 Melee 你被 {1} [{2}] 砍中了 {0} 致死！
 Zombie 你被僵尸咬死了！
