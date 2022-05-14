@@ -1,4 +1,4 @@
-# PigeonType-UnturnedChineseLanguage
+# PigeonType-UnturnedChineseLanguage (已弃用，请去v3.22.9.1分支)
 ## 这是什么项目？
 这是一个在Github上的，所有人都可以参加的，Unturned翻译项目！
 ## 我该如何贡献？
