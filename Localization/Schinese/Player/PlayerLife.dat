@@ -1,58 +1,58 @@
 Space Missing Space
-Item Pickup {0} [{1}]
-Vehicle_Enter_Locked Enter {0} [{1}] [Locked]
-Vehicle_Enter_Unlocked Enter {0} [{1}] [Not Locked]
-Vehicle_Exit Exit [{0}]
-Vehicle_Swap Swap Seats [F1-F{0}]
-Reload Reload [{0}]
-Safety Safety [{0}]
-Light Toggle Light [{0}]
-Laser Toggle Laser [{0}]
-Rangefinder Toggle Rangefinder [{0}]
+Item 捡起 {0} [{1}]
+Vehicle_Enter_Locked 进入 {0} [{1}] [已被锁定]
+Vehicle_Enter_Unlocked 进入 {0} [{1}] [未被锁定]
+Vehicle_Exit 离开 [{0}]
+Vehicle_Swap 切换座位 [F1-F{0}]
+Reload 重新装弹 [{0}]
+Safety 安全 [{0}]
+Light 切换灯光 [{0}]
+Laser 切换激光 [{0}]
+Rangefinder 切换测距仪 [{0}]
 Enemy {0}
-Door_Open Open [{0}]
-Door_Close Close [{0}]
-Locked Locked
-Blocked Blocked
-Pillar Missing Pillar
+Door_Open 开 [{0}]
+Door_Close 关 [{0}]
+Locked 被锁定
+Blocked 被挡住
+Pillar 找不到支柱
 Post Missing Post
-Roof Missing Floor
-Wall Missing Wall
+Roof 找不到地板
+Wall 找不到墙
 Corner Missing Corner
-Ground Missing Ground
-Doorway Missing Doorway
-Garage Missing Garage
-Window Missing Window
-Bed_On Claim [{0}]
-Bed_Off Unclaim [{0}]
-Bed_Claimed Claimed
-Bounds Out Of Bounds
-Experience +{0} Experience
-Storage Storage [{0}]
-Farm Harvest [{0}]
-Grow Growing
-Soil Missing Soil
-Fire_On Light [{0}]
-Fire_Off Extinguish [{0}]
+Ground 找不到地面
+Doorway 找不到门框
+Garage 找不到车库门框
+Window 找不到窗户
+Bed_On 绑定 [{0}]
+Bed_Off 接绑 [{0}]
+Bed_Claimed 已被绑定
+Bounds 超出范围
+Experience +{0} 经验值
+Storage 储存 [{0}]
+Farm 采集 [{0}]
+Grow 生长中
+Soil Missing 需要土壤
+Fire_On 点亮 [{0}]
+Fire_Off 熄灭 [{0}]
 Forage Forage [{0}]
-Generator_On Start [{0}]
-Generator_Off Stop [{0}]
-Spot_On On [{0}]
-Spot_Off Off [{0}]
-Empty Empty
-Full Full
-Moon_On The full moon emerges!
-Moon_Off The full moon falls!
-Safezone_On Entering safezone!
-Safezone_Off Exiting safezone!
-Deadzone_On Entering deadzone!
-Deadzone_Off Exiting deadzone!
+Generator_On 开 [{0}]
+Generator_Off 关 [{0}]
+Spot_On 开 [{0}]
+Spot_Off 关 [{0}]
+Empty 空
+Full 满
+Moon_On 满月开始了！
+Moon_Off 满月结束了！
+Safezone_On 你已进入安全区！
+Safezone_Off 你已离开安全区！
+Deadzone_On 你已进入辐射区！
+Deadzone_Off 你已离开辐射区！
 Purchase {0} - {1} [{2}]
 Wave_On The horde returns, stronger!
 Wave_Off The horde retreats... for now.
-Power Missing Power Source
-Use Use [{0}]
-Salvage Salvage [Hold {0}]
+Power 找不到电源供应
+Use 使用 [{0}]
+Salvage 拆除 [按住 {0}]
 Tutorial_Move Hey there! Are you alive? Move [{0}, {1}, {2}, {3}] around a bit, get your blood flowing!
 Tutorial_Look Okay phew! Can you View [Drag Mouse] my camera in the corner?
 Tutorial_Jump Looking good! Jump [{0}] over this ledge. This can save your life when you're being chased!
@@ -79,36 +79,36 @@ Tutorial_Sirens Show the bandits you mean business with your Sirens [{0}]!
 Tutorial_Farm Farming provides a sustainable source of food.
 Tutorial_Power Generators can power electrical objects such as anti-zombie radiators and traffic lights.
 Tutorial_Fire Fires keep you warm in freezing environments and give you an easy place to Cook [{0}] food.
-Claim Area Claimed
-Underwater Too Wet
-Nav Too Far From Town
-Spawn Too Near To Spawn
+Claim Area 已被绑定
+Underwater 太湿了
+Nav 离地区太远了！
+Spawn 离出生点太近了！
 Mobile Not Mobile
-Oil Missing Fuel Reserve
-Volume_Water Water Reserve: {0}
-Volume_Fuel Fuel Reserve:
-Busy Busy
+Oil Missing 燃料储备
+Volume_Water 水源储备: {0}
+Volume_Fuel 燃料储备:
+Busy 忙
 Trapdoor Missing Trapdoor
-Fuel Fuel: {0}%
-Clean Clean
-Salty Salty
-Dirty Dirty
+Fuel 燃料: {0}%
+Clean 干净
+Salty 咸的
+Dirty 脏的
 Talk Talk to {1} [{0}]
-Reputation {0} Reputation
-Safezone Too Near To Safezone
-Bayonet Bayonet [{0}]
-Vehicle_Locked Locked [{0}]
-Vehicle_Unlocked Unlocked [{0}]
-Build_On_Occupied_Vehicle Vehicle Occupied
-Not_Allowed_Here Not Allowed Here
-Cannot_Build_On_Vehicle Cannot Build On Vehicles
+Reputation {0} 声誉
+Safezone 离安全区太近了！
+Bayonet 刺 [{0}]
+Vehicle_Locked 已被锁定 [{0}]
+Vehicle_Unlocked 未被锁定 [{0}]
+Build_On_Occupied_Vehicle 汽车上有人
+Not_Allowed_Here 在这里不允许
+Cannot_Build_On_Vehicle 不能在汽车上建筑
 Too_Far_From_Hull Too Far From Hull
 Cannot_Build_While_Seated Cannot Build While Seated
-Climb Climb [{0}]
+Climb 攀爬 [{0}]
 
-Chat_Global [World] {0}: {1}
-Chat_Local [Area] {0}: {1}
-Chat_Group [Group] {0}: {1}
+Chat_Global [世界频道] {0}: {1}
+Chat_Local [区域频道] {0}: {1}
+Chat_Group [队伍频道] {0}: {1}
 Chat_Welcome [Welcome] {0}: {1}
 Chat_Say [Alert] {0}: {1}
 SendChat_Tooltip Send Message [{0}]
@@ -135,19 +135,19 @@ Arena_Win {0} won!
 Arena_Lose Game over!
 Arena_Intermission Intermission...
 
-Mode_Global [World]
-Mode_Global_Tooltip Send to all players [{0}]
-Mode_Local [Area]
-Mode_Local_Tooltip Send to nearby players [{0}]
-Mode_Group [Group]
-Mode_Group_Tooltip Send to members of your group [{0}]
+Mode_Global [世界频道]
+Mode_Global_Tooltip 发送给所有玩家 [{0}]
+Mode_Local [区域频道]
+Mode_Local_Tooltip 发送给附近的玩家 [{0}]
+Mode_Group [队伍频道]
+Mode_Group_Tooltip 发送给你的小组成员 [{0}]
 
-Surrender Surrender
-Point Point
-Wave Wave
-Salute Salute
-Rest Rest
-Facepalm Facepalm
+Surrender 投降
+Point 指点
+Wave 挥手
+Salute 敬礼
+Rest 休息
+Facepalm 捂脸
 
 Round Wave: {0}
 Score Score: {0}

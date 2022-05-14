@@ -1,122 +1,122 @@
-Rarity_0 Common
-Rarity_1 Uncommon
-Rarity_2 Rare
-Rarity_3 Epic
-Rarity_4 Legendary
-Rarity_5 Mythical
+Rarity_0 常见
+Rarity_1 不常见
+Rarity_2 稀有
+Rarity_3 史诗
+Rarity_4 传奇
+Rarity_5 神话
 
-Type_0 Hat
-Type_1 Pants
-Type_2 Shirt
-Type_3 Mask
-Type_4 Backpack
-Type_5 Vest
-Type_6 Glasses
-Type_7 Ranged Weapon
-Type_8 Sight Attachment
-Type_9 Tactical Attachment
-Type_10 Grip Attachment
-Type_11 Barrel Attachment
-Type_12 Magazine Attachment
-Type_13 Food
-Type_14 Drink
-Type_15 Medicine
-Type_16 Melee Weapon
-Type_17 Fuel Canister
-Type_18 Tool
-Type_19 Barricade
-Type_20 Item Storage
-Type_21 Beacon
-Type_22 Plant
-Type_23 Trap
-Type_24 Structure
-Type_25 Crafting Supply
-Type_26 Projectile
-Type_27 Growth Supplement
-Type_28 Optic
-Type_29 Water Canister
-Type_30 Fishing Pole
-Type_31 Parachute
-Type_32 Map
-Type_33 Key
-Type_34 Box
-Type_35 Catcher
-Type_36 Releaser
-Type_37 Liquid Storage
-Type_38 Generator
-Type_39 Remote Trigger
-Type_40 Remote Explosive
-Type_41 Experience Storage
-Type_42 Radiation Filter
-Type_43 Robotic Turret
-Type_44 Tool
-Type_45 Tool
-Type_46 Compass
-Type_47 Oil Pump
+Type_0 帽子
+Type_1 裤子
+Type_2 衬衫
+Type_3 面具
+Type_4 背包
+Type_5 背心
+Type_6 眼镜
+Type_7 远程武器
+Type_8 瞄准配件
+Type_9 战术配件
+Type_10 握把
+Type_11 枪管配件
+Type_12 弹夹
+Type_13 食物
+Type_14 饮料
+Type_15 药物
+Type_16 近战武器
+Type_17 燃料罐
+Type_18 工具
+Type_19 路障
+Type_20 物品存储
+Type_21 灯塔
+Type_22 植物
+Type_23 陷阱
+Type_24 结构
+Type_25 制作补给品
+Type_26 投掷物
+Type_27 生长剂
+Type_28 光学配件
+Type_29 水罐
+Type_30 钓鱼竿
+Type_31 伞
+Type_32 地图
+Type_33 钥匙
+Type_34 箱子
+Type_35 捕捉器
+Type_36 释放器
+Type_37 水源存储
+Type_38 发电机
+Type_39 远程触发器
+Type_40 远程爆炸物
+Type_41 经验储存器
+Type_42 辐射过滤器
+Type_43 自动炮塔
+Type_44 工具
+Type_45 工具
+Type_46 指南针
+Type_47 油泵
 
-Hotkey_Set Hotkey: {0}
-Hotkey_Unset Hotkey: [3-9]
+Hotkey_Set 快捷键: {0}
+Hotkey_Unset 快捷键: [3-9]
 
 Rarity_Type_Label {0} {1}
-Quality Quality: {0}%
-Amount Amount: {0}
+Quality 耐久度 {0}%
+Amount 数量: {0}
 
-Fuel Fuel: {0}%
-Refill Water: {0}
-Empty Empty
-Full Full
-Clean Clean
-Salty Salty
-Dirty Dirty
+Fuel 燃料: {0}%
+Refill 水源: {0}
+Empty 空
+Full 满
+Clean 干净
+Salty 咸的
+Dirty 脏的
 
-Ammo Ammo: {0} {1}/{2}
-None Empty
+Ammo 弹药: {0} {1}/{2}
+None 空
 
-Equip_Button Equip
-Equip_Button_Tooltip Equip in your hands.
-Dequip_Button Dequip
-Dequip_Button_Tooltip Dequip from your hands.
-Drop_Button Drop
-Drop_Button_Tooltip Drop on the ground.
-Pickup_Button Pickup
-Pickup_Button_Tooltip Pickup from the ground.
+Equip_Button 装备
+Equip_Button_Tooltip 装备在你手中。
+Dequip_Button 取消装备
+Dequip_Button_Tooltip 从你的手中脱去装备。
+Drop_Button 丢弃
+Drop_Button_Tooltip 丢到地上。
+Pickup_Button 捡起
+Pickup_Button_Tooltip 从地上捡起。
 
-Take_Button Take
-Take_Button_Tooltip Take from storage.
-Store_Button Store
-Store_Button_Tooltip Store in storage.
+Take_Button 拿起
+Take_Button_Tooltip 从存储中拿出
+Store_Button 储存
+Store_Button_Tooltip 把物品存进存储中
 
-Repair_Button Repair
-Repair_Button_Tooltip Repair to 100% quality.
-Salvage_Button Salvage
-Salvage_Button_Tooltip Salvage into component materials.
-Refill_Button Refill
-Refill_Button_Tooltip Refill with bullets.
+Repair_Button 修复
+Repair_Button_Tooltip 修复到100%的质量。
+Salvage_Button 拆掉
+Salvage_Button_Tooltip 拆成部件材料
+Refill_Button 装填
+Refill_Button_Tooltip 重新填充子弹。
 
-Attachments_Button Strip
-Attachments_Button_Tooltip Dismantle attachments.
+Attachments_Button 卸下
+Attachments_Button_Tooltip 拆除配件。
 
-Craft_Rag_Button Craft Rag
-Craft_Rag_Button_Tooltip Upgrade to rags.
-Craft_Bandage_Button Craft Bandage
-Craft_Bandage_Button_Tooltip Upgrade to bandage.
-Craft_Dressing_Button Craft Dressing
-Craft_Dressing_Button_Tooltip Upgrade to dressing.
-Craft_Seed_Button Craft Seed
+Craft_Rag_Button 制作成破布
+Craft_Rag_Button_Tooltip 升级为破布。
+Craft_Bandage_Button 制作成绷带
+Craft_Bandage_Button_Tooltip 升级为绷带。
+Craft_Dressing_Button 制作成强效绷带
+Craft_Dressing_Button_Tooltip 升级为强效绷带
+Craft_Seed_Button 制作成种子
 Craft_Seed_Button_Tooltip Salvage seed.
 
 Swap_Cosmetics_Tooltip Toggle Cosmetics
 Swap_Skins_Tooltip Toggle Skins
 Swap_Mythics_Tooltip Toggle Mythics
 
-Vehicle_Lock_On Lock [{0}]
-Vehicle_Lock_Off Unlock [{0}]
-Vehicle_Lock_Tooltip Keep out vehicle thieves.
-Vehicle_Horn Horn [{0}]
-Vehicle_Horn_Tooltip Warning audio.
-Vehicle_Headlights_On Headlights On [{0}]
-Vehicle_Headlights_Off Headlights Off [{0}]
-Vehicle_Headlights_Tooltip Bright for nighttime travel.
+Vehicle_Lock_On 上锁 [{0}]
+Vehicle_Lock_Off 未上锁 [{0}]
+Vehicle_Lock_Tooltip 车门锁开关。
+Vehicle_Horn 喇叭 [{0}]
+Vehicle_Horn_Tooltip 喇叭
+Vehicle_Headlights_On 打开前照灯 [{0}]
+Vehicle_Headlights_Off 关闭前照灯 [{0}]
+Vehicle_Headlights_Tooltip 车头灯开关。
 Vehicle_Sirens_On Sirens On [{0}]
 Vehicle_Sirens_Off Sirens Off [{0}]
 Vehicle_Sirens_Tooltip Emergency audio.
@@ -125,18 +125,18 @@ Vehicle_Blimp_Off Descend [{0}]
 Vehicle_Blimp_Tooltip Adjust baloon ballast.
 Vehicle_Hook Towing Cable [{0}]
 Vehicle_Hook_Tooltip Carry nearby vehicles.
-Vehicle_Seat_Empty Empty
+Vehicle_Seat_Empty 空
 Vehicle_Seat_Slot {0} [{1}]
-Vehicle_Steal_Battery Steal Battery
+Vehicle_Steal_Battery 卸下电池
 Vehicle_Steal_Battery_Tooltip Remove battery from engine.
 Vehicle_Skin_On Apply Paintjob
 Vehicle_Skin_Off Clear Paintjob
 Vehicle_Skin_Tooltip Use your active vehicle skin.
 
-Hands Hands
-Storage Storage
+Hands 手
+Storage 存储
 Storage_Trunk {0} Trunk Storage
-Area Nearby
+Area 附近
 
 Rot_X X++
 Rot_Y Y++

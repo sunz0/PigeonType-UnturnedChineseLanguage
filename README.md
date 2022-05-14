@@ -1,4 +1,6 @@
 # PigeonType-UnturnedChineseLanguage
+## Hi！
+你现在v3.22.9.1的分支中！
 ## 这是什么项目？
 这是一个在Github上的，所有人都可以参加的，Unturned翻译项目！
 ## 我该如何贡献？
