@@ -1,45 +1,45 @@
-VAC_Secure VAC 安全
-VAC_Insecure VAC 不安全
-BattlEye_Secure 战眼(BattlEye)已启用
-BattlEye_Insecure 战眼(BattlEye)已禁用
+VAC_Secure VAC Secure
+VAC_Insecure VAC Insecure
+BattlEye_Secure BattlEye Required
+BattlEye_Insecure BattlEye Disabled
 Streamer Streamer Mode
-Offline 离线
+Offline Offline
 
-Loading_Level_Play 加载地图 {0} v{1} 在 {2} [{3}] 上...
-Loading_Level_Edit 加载中 {0}...
+Loading_Level_Play Loading {0} v{1} on {2} [{3}]...
+Loading_Level_Edit Loading {0}...
 
-Loading 加载中...
-Loading_Clean 清理中...
-Loading_Blueprints 绑定蓝图(制作配方)中...
-Loading_Spawns 绑定生成表中...
-Loading_Misc 加载杂项中...
-Assets_Scan 找到 {0} 资源: {1}
-Assets_Load 预加载 {0} 资源: {1}/{2}
-Master_Bundle_Progress 安装 {0}: {1}%
-Master_Bundle_Progress_Hash 进行哈希处理 {0}: {1}%
-Download_Progress 下载 {0} 中...
-Level_Load 加载关卡: {0}%
-Queue_Position 队列位置: #{0}
-Queue_Cancel 取消
-Queue_Cancel_Tooltip 离开队列
+Loading Loading...
+Loading_Clean Cleaning up...
+Loading_Blueprints Linking blueprints...
+Loading_Spawns Linking spawns...
+Loading_Misc Loading miscellaneous...
+Assets_Scan Found {0} assets: {1}
+Assets_Load Preloading {0} assets: {1}/{2}
+Master_Bundle_Progress Mounting {0}: {1}%
+Master_Bundle_Progress_Hash Hashing {0}: {1}%
+Download_Progress Downloading {0}...
+Level_Load Loading level: {0}%
+Queue_Position Queue Position: #{0}
+Queue_Cancel Cancel
+Queue_Cancel_Tooltip Leave queue
 
-Asset 常规(asset)
-Item 物品(item)
-Effect 效果(effect)
-Object 对象(object)
-Resource 资源(resource)
-Vehicle 载具(vehicle)
-Animal 动物(animal)
-Mythic 特效(mythic)
-Skin 皮肤(skin)
-Spawn 生成表(spawn table)
-Map 地图(map)
-Workshop_Shared 共享的创意工坊(shared workshop)
-Workshop_Server 服务器的创意工坊(server workshop)
-Workshop_Client 客户端的创意工坊(client workshop)
-Bundles_Server 服务器
+Asset general
+Item item
+Effect effect
+Object object
+Resource resource
+Vehicle vehicle
+Animal animal
+Mythic mythic
+Skin skin
+Spawn spawn table
+Map map
+Workshop_Shared shared workshop
+Workshop_Server server workshop
+Workshop_Client client workshop
+Bundles_Server server
 NPC NPC
 
-Creators 由：
-Collaborators 合作者：
-Thanks 特别感谢：
+Creators Created by:
+Collaborators Created in collaboration with:
+Thanks Special thanks to:

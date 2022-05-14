@@ -1,16 +1,16 @@
-IP_Field_Label IP地址
-Port_Field_Label 端口
-Password_Field_Label 密码
-Password_Field_Replace *
+IP_Field_Label IP
+Port_Field_Label Port
+Password_Field_Label Password
+Password_Field_Replace #
 
-Connect_Button 连接
-Connect_Button_Tooltip 连接
+Connect_Button Connect
+Connect_Button_Tooltip Connect
 
-Cancel_Attempt_Label 取消
-Cancel_Attempt_Tooltip 停止连接尝试
+Cancel_Attempt_Label Cancel
+Cancel_Attempt_Tooltip Stop connection attempts.
 
-Connecting 正在尝试连接... [尝试 第{0}次]
-Pro_Server 你需要Gold Update DLC来加入这个服务器
-Password 这个服务器需要一个密码
-Full 这个服务器现在已经满了
-Timed_Out 未能找到服务器。
+Connecting Attempting connection... [Try #{0}]
+Pro_Server You require Gold to join this server.
+Password This server requires a password.
+Full This server is now full.
+Timed_Out Failed to find a server.
