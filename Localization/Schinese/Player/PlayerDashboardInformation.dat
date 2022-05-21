@@ -19,7 +19,7 @@ Players_Tooltip 查看玩家列表
 
 Group_Members 成员: {0}/{1}
 Group_Rename 重命名
-Group_Rename_Tooltip Submit New Name
+Group_Rename_Tooltip 使用新名字。
 Group_Leave 离开组
 Group_Leave_Tooltip 退出组
 Group_Delete 删除组
@@ -29,17 +29,17 @@ Group_Delete_Confirm_Tooltip 放弃组，踢走所有成员
 Group_Delete_Deny 取消
 Group_Delete_Deny_Tooltip 保留组
 Group_Join 加入
-Group_Join_Tooltip Accept Invite
+Group_Join_Tooltip 同意加入组。
 Group_Ignore 不加入
-Group_Ignore_Tooltip Cancel Invite
+Group_Ignore_Tooltip 不同意加入组。
 Group_Create 创建新的组
-Group_Create_Tooltip Become Group Owner
+Group_Create_Tooltip 变成一个组长。
 Group_Promote 提权
-Group_Promote_Tooltip Rank++
+Group_Promote_Tooltip 提权。
 Group_Demote 降权
-Group_Demote_Tooltip Rank--
+Group_Demote_Tooltip 降权。
 
-Radio_Frequency_Label Radio Frequency:
+Radio_Frequency_Label 无线电频率:
 Radio_Frequency_Tune Tune
 Radio_Frequency_Tune_Tooltip Adjust Frequency
 Radio_Frequency_Reset Reset

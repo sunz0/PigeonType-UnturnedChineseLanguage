@@ -30,7 +30,7 @@ Type_21 灯塔
 Type_22 植物
 Type_23 陷阱
 Type_24 结构
-Type_25 制作补给品
+Type_25 制作材料
 Type_26 投掷物
 Type_27 生长剂
 Type_28 光学配件
@@ -103,7 +103,7 @@ Craft_Bandage_Button_Tooltip 升级为绷带。
 Craft_Dressing_Button 制作成强效绷带
 Craft_Dressing_Button_Tooltip 升级为强效绷带
 Craft_Seed_Button 制作成种子
-Craft_Seed_Button_Tooltip Salvage seed.
+Craft_Seed_Button_Tooltip 制作成种子。
 
 Swap_Cosmetics_Tooltip Toggle Cosmetics
 Swap_Skins_Tooltip Toggle Skins
@@ -128,7 +128,7 @@ Vehicle_Hook_Tooltip Carry nearby vehicles.
 Vehicle_Seat_Empty 空
 Vehicle_Seat_Slot {0} [{1}]
 Vehicle_Steal_Battery 卸下电池
-Vehicle_Steal_Battery_Tooltip Remove battery from engine.
+Vehicle_Steal_Battery_Tooltip 从引擎上卸下电池。
 Vehicle_Skin_On Apply Paintjob
 Vehicle_Skin_Off Clear Paintjob
 Vehicle_Skin_Tooltip Use your active vehicle skin.

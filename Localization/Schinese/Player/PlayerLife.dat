@@ -1,4 +1,4 @@
-Space Missing Space
+Space 没有空间
 Item 捡起 {0} [{1}]
 Vehicle_Enter_Locked 进入 {0} [{1}] [已被锁定]
 Vehicle_Enter_Unlocked 进入 {0} [{1}] [未被锁定]
@@ -109,9 +109,9 @@ Climb 攀爬 [{0}]
 Chat_Global [世界频道] {0}: {1}
 Chat_Local [区域频道] {0}: {1}
 Chat_Group [队伍频道] {0}: {1}
-Chat_Welcome [Welcome] {0}: {1}
-Chat_Say [Alert] {0}: {1}
-SendChat_Tooltip Send Message [{0}]
+Chat_Welcome [欢迎] {0}: {1}
+Chat_Say [警告] {0}: {1}
+SendChat_Tooltip 发送信息 [{0}]
 
 Vote_Kick {0} [{1}] is calling a vote to kick {2} [{3}]
 Votes_Needed Yes votes needed to pass: {0}
@@ -126,14 +126,14 @@ Vote_Fail Vote failed!
 List_Joint_0 ,
 List_Joint_1  and
 
-Arena_Lobby Waiting for players...
-Arena_Warm_Up Get ready...
-Arena_Play Let the battle begin!
-Arena_Died {0} died!
+Arena_Lobby 等待玩家...
+Arena_Warm_Up 准备...
+Arena_Play 让我们战斗吧！
+Arena_Died {0} 死亡！
 Arena_Abandoned {0} abandoned!
-Arena_Win {0} won!
-Arena_Lose Game over!
-Arena_Intermission Intermission...
+Arena_Win {0} 赢了！
+Arena_Lose 游戏结束！
+Arena_Intermission 休息阶段...
 
 Mode_Global [世界频道]
 Mode_Global_Tooltip 发送给所有玩家 [{0}]
