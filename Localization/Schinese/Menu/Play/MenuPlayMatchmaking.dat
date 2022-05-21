@@ -10,6 +10,6 @@ Progress_Best Best match - {0}
 Match_No Unknown
 Match_Yes Players: {0}/{1} Ping: {2} 
 
-Easy_Button 简单
-Normal_Button 普通
-Hard_Button 困难
+Easy_Button Easy
+Normal_Button Normal
+Hard_Button Hard

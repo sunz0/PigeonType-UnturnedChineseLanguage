@@ -7,6 +7,14 @@ Proning_Label Proning
 Sprinting_Label Sprinting
 Leaning_Label Leaning
 
+SensitivityScalingMode_Label Sensitivity Scaling Mode
+SensitivityScalingMode_ProjectionRatio Focal Length
+SensitivityScalingMode_ProjectionRatio_Tooltip Scale by ratio between active FOV projected onto screen and configured FOV projected onto screen.
+SensitivityScalingMode_ZoomFactor Zoom Factor
+SensitivityScalingMode_ZoomFactor_Tooltip Multiply sensitivity according to scope/optic zoom. For example an 8x zoom has 1/8th sensitivity.
+SensitivityScalingMode_Legacy Legacy
+SensitivityScalingMode_Legacy_Tooltip Preserve how sensitivity felt prior to 3.22.8.0 update.
+
 Hold Hold
 Toggle Toggle
 
