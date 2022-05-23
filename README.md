@@ -17,6 +17,19 @@
 | /Localization/Schinese/Player | UI的语言文件（游玩时的UI）                    |
 | /Localization/Schinese/Shared | UI的语言文件（只有一个文件 写着快捷键的解释） |
 | /Translations                 | 语言文件（还没翻译）                          |
+| /Bundles/Animals              | 动物文件                                      |
+| /Bundles/Items                | 物品文件（物品名字/解释）                     |
+| /Bundles/NPCs                 | NPC文件（NPC对话内容/NPC名字）                |
+| /Bundles/Objects              | 求大佬解释                                    |
+| /Bundles/Vehicles             | 车辆文件                                      |
+### 这是Bundles文件夹中的找文件格式
+| 目录                         | 内容       |
+| ---------------------------- | ---------- |
+| /Bundles/Animals/(名字)      | /          |
+| /Bundles/Items/(类型)/(名字) | /          |
+| /Bundles/NPCs/(类型)/(名字)    | /          |
+| /Bundles/Objects             | 求大佬解释 |
+| /Bundles/Vehicles/(名字)            | /   |
 ### 这是文件夹中文件的含义（Menu）
 | 目录                                      | 文件                            | 内容                                                |
 | ----------------------------------------- | ------------------------------- | --------------------------------------------------- |
@@ -51,19 +64,24 @@
 | /Localization/Schinese/Menu/Survivors     | MenuSurvivorsGroup.dat          | 组                                                  |
 | /Localization/Schinese/Menu/Workshop      | *                               | 创意工坊界面 （鸽子不懂技术层面的内容 求大佬解释）  |
 ### 这是文件夹中文件的含义（Player）
-| 目录                          | 文件                         | 内容                                                                 |
-| ----------------------------- | ---------------------------- | -------------------------------------------------------------------- |
-| /Localization/Schinese/Player | PlayerPause.dat              | 玩家暂停游戏                                                         |
-| /Localization/Schinese/Player | PlayerNPCVendor.dat          | NPC商店                                                              |
-| /Localization/Schinese/Player | PlayerNPCQuest.dat           | NPC任务&数据解释&UI                                                  |
-| /Localization/Schinese/Player | PlayerLife.dat               | 名字为Life，指游玩时各种提示内容（如杀死僵尸/满月降临/各种交互界面） |
-| /Localization/Schinese/Player | PlayerDeath.dat              | 玩家死亡时的界面/死亡提示                                            |
-| /Localization/Schinese/Player | PlayerDashboardSkills.dat    | 玩家TabUI - 技能界面                                                 |
-| /Localization/Schinese/Player | PlayerDashboardInventory.dat | 玩家TabUI - 物品种类/物品栏交互UI/物品稀有度                         |
-| 咕咕中...                     | 咕咕中...                    | 咕咕中...                                                            |
-
+| 目录                                  | 文件                         | 内容                                                                 |
+| ------------------------------------- | ---------------------------- | -------------------------------------------------------------------- |
+| /Localization/Schinese/Player         | PlayerPause.dat              | 玩家暂停游戏                                                         |
+| /Localization/Schinese/Player         | PlayerNPCVendor.dat          | NPC商店                                                              |
+| /Localization/Schinese/Player         | PlayerNPCQuest.dat           | NPC任务&数据解释&UI                                                  |
+| /Localization/Schinese/Player         | PlayerLife.dat               | 名字为Life，指游玩时各种提示内容（如杀死僵尸/满月降临/各种交互界面） |
+| /Localization/Schinese/Player         | PlayerDeath.dat              | 玩家死亡时的界面/死亡提示                                            |
+| /Localization/Schinese/Player         | PlayerDashboardSkills.dat    | 玩家TabUI - 技能界面                                                 |
+| /Localization/Schinese/Player         | PlayerDashboardInventory.dat | 玩家TabUI - 物品种类/物品栏交互UI/物品稀有度                         |
+| /Localization/Schinese/Player         | PlayerDashboardCrafting.dat  | 玩家TabUI - 合成界面                                                 |
+| /Localization/Schinese/Player         | PlayerDashboard.dat          | 玩家TabUI - 上方的按钮（物品栏/合成/技能/信息）                      |
+| /Localization/Schinese/Player         | PlayerBrowserRequest.dat     | 当服务器邀请你打开网页时，弹出的提示信息                             |
+| /Localization/Schinese/Player         | PlayerBarricadeMannequin.dat | 人偶的UI                                                             |
+| /Localization/Schinese/Player         | PlayerBarricadeSign.dat      | 告示牌的UI                                                           |
+| /Localization/Schinese/Player         | PlayerBarricadeStereo.dat    | 收音机的UI                                                           |
+| /Localization/Schinese/Player/Useable | PlayerUseableGun.dat         | 玩家使用远程武器信息栏                                               |
 ## 怎么翻译？
-### Example
+### Example（Localization）
 ```
 Test1 English
 Test2 English
@@ -72,11 +90,18 @@ Test4 English {1} {2} {3}
 ```
 - "Test1~4"为开发者设置的名字，绝对不能更改！不然会导致Unturned无法识别，会变成#TEST1的（就像翻译文件没更新，新版Unturned的退出按钮就会变成#QUIT_BUTTON）
 - "English"才是翻译文本，你只能修改这个！
-- {1} 为替换符，绝对要格式对，不然会导致UI不显示问题！{}是英文！{1}中的数字也不能更改
+- {1} 为替换符，绝对要格式对，不然会导致UI不显示问题！{}是英文！{1}中的数字也不能更改（必须要和字有空隙 比如： 我是个 {1} ！）
 - {1} {2} {3} 为多个替换符也不能更改，顶多因为翻译换一下顺序！
-### 具体的翻译过程
-- Localization：点进指定文件 --> Edit --> Fork项目 --> 机翻一遍 --> 手动纠错 --> 提交PR --> 等待审核
-- Maps：点进English.dat --> Edit --> Fork项目 --> 机翻一遍 --> 手动纠错 --> 把English.dat改成Schinese.dat（注意大小写） --> 提交PR --> 等待审核
+### Example（Bundles）
+- 假如我找 碎心人 枪械的语言文件，那就要去Items文件夹，找到Guns列表，找到Heartbreaker文件夹，打开Heartbreaker文件夹会有两个文件（Heartbreaker.dat / English.dat）
+- 打开English.dat，你能看到下面的内容
+```
+Name Heartbreaker
+Description Belgian assault rifle chambered in Military ammunition.
+```
+- Name (名字)
+- Description (描述)
+- 翻译后把English改成Schinese.dat，大功告成，然后提交PR
 ### 审核？
 - 在当日0:00~17:00提交PR当日18:00后审核。
 - 在当日17:00~20:00提交PR当日21:00后审核。
