@@ -24,14 +24,14 @@ Doorway 找不到门框
 Garage 找不到车库门框
 Window 找不到窗户
 Bed_On 绑定 [{0}]
-Bed_Off 接绑 [{0}]
+Bed_Off 解绑 [{0}]
 Bed_Claimed 已被绑定
 Bounds 超出范围
 Experience +{0} 经验值
 Storage 储存 [{0}]
 Farm 采集 [{0}]
 Grow 生长中
-Soil Missing 需要土壤
+Soil 需要土壤
 Fire_On 点亮 [{0}]
 Fire_Off 熄灭 [{0}]
 Forage Forage [{0}]

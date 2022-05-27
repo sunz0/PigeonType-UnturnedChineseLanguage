@@ -25,7 +25,7 @@ Kill 你被服务器管理员杀死了！
 Infection 你感染致死！
 Punch 你被 {1} [{2}] 打中了 {0} 而死！
 Breath 你窒息致死！
-Roadkill 你被 {1} [{2}] 撞死了！
+Roadkill 你被 {0} [{1}] 撞死了！
 Vehicle 你被载具炸死了
 Grenade 你被 {0} [{1}] 的手雷炸死了！
 Shred 你被撕成碎片了！
