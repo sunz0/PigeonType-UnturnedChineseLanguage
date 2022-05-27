@@ -90,7 +90,7 @@ Test4 English {1} {2} {3}
 ```
 - "Test1~4"为开发者设置的名字，绝对不能更改！不然会导致Unturned无法识别，会变成#TEST1的（就像翻译文件没更新，新版Unturned的退出按钮就会变成#QUIT_BUTTON）
 - "English"才是翻译文本，你只能修改这个！
-- {1} 为替换符，绝对要格式对，不然会导致UI不显示问题！{}是英文！{1}中的数字也不能更改（必须要和字有空隙 比如： 我是个 {1} ！）
+- {1} 为替换符，绝对要格式对，不然会导致UI不显示问题！{}是英文！{1}中的数字也不能更改.
 - {1} {2} {3} 为多个替换符也不能更改，顶多因为翻译换一下顺序！
 ### Example（Bundles）
 - 假如我找 碎心人 枪械的语言文件，那就要去Items文件夹，找到Guns列表，找到Heartbreaker文件夹，打开Heartbreaker文件夹会有两个文件（Heartbreaker.dat / English.dat）
@@ -101,7 +101,7 @@ Description Belgian assault rifle chambered in Military ammunition.
 ```
 - Name (名字)
 - Description (描述)
-- 翻译后把English改成Schinese.dat，大功告成，然后提交PR
+- 翻译后把English改成Schinese.dat，删除Heartbreaker.dat 大功告成，然后提交PR。
 ### 审核？
 - 在当日0:00~17:00提交PR当日18:00后审核。
 - 在当日17:00~20:00提交PR当日21:00后审核。
