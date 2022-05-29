@@ -17,4 +17,4 @@ Stat_Travel_Foot 你已经走了 {0} 步! 世界各地的玩家已经走了 {1} 
 Stat_Travel_Vehicle 你已经开了 {0} 车辆了! 世界各地的玩家已经开了 {1} !
 Stat_Arena_Wins 你已经赢得了 {0} 场比赛! 世界各地的玩家已经赢得了 {1} 场!
 Stat_Found_Buildables 你已经建造了 {0} 个物体! 世界各地的玩家已经建造了 {1} 个!
-Stat_Found_Throwables 你已经投掷了{0} 个投掷物! 世界各地的玩家已经投掷了{1} 个!
+Stat_Found_Throwables 你已经投掷了{0} 个投掷物! 世界各地的玩家已经投掷了 {1} 个!
