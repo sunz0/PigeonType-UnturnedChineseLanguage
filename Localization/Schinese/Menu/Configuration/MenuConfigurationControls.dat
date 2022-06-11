@@ -14,6 +14,11 @@ SensitivityScalingMode_ZoomFactor Zoom Factor
 SensitivityScalingMode_ZoomFactor_Tooltip Multiply sensitivity according to scope/optic zoom. For example an 8x zoom has 1/8th sensitivity.
 SensitivityScalingMode_Legacy Legacy
 SensitivityScalingMode_Legacy_Tooltip Preserve how sensitivity felt prior to 3.22.8.0 update.
+SensitivityScalingMode_None Disabled
+SensitivityScalingMode_None_Tooltip Sensitivity is unmodified while aiming. Not recommended.
+
+ProjectionRatioCoefficient_Label Projection Ratio Coefficient
+ProjectionRatioCoefficient_Tooltip Multiplier for "Focal Length" sensitivity scaling.
 
 Hold Hold
 Toggle Toggle

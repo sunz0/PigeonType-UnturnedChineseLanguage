@@ -1,21 +1,25 @@
-AdjustUpButtonText Raise [{0}]
-AdjustUpButtonTooltip Adjust Up
+Mode_Adjust Raise/Lower [{0}]
+Mode_Flatten Flatten [{0}]
+Mode_Smooth Smooth [{0}]
+Mode_Ramp Ramp [{0}]
+Mode_Label Mode
 
-AdjustDownButtonText Lower [{0}]
-AdjustDownButtonTooltip Adjust Down
+BrushRadius Brush Radius [{0}]
+BrushFalloff Brush Falloff [{0}]
+BrushStrength Brush Strength [{0}]
 
-SmoothButtonText Smooth [{0}]
-SmoothButtonTooltip Smooth
+SmoothMethod_BrushAverage Brush Average
+SmoothMethod_PixelAverage Pixel Average
+SmoothMethod_Label Smooth Method
 
-FlattenButtonText Flatten [{0}]
-FlattenButtonTooltip Flatten
+FlattenMethod_Regular Regular
+FlattenMethod_Min Min
+FlattenMethod_Max Max
+FlattenMethod_Label Flatten Method
 
-SizeSliderLabelText Size
-NoiseSliderLabelText Noise
-StrengthSliderLabelText Strength
+FlattenTarget Flatten Target [{0}]
+MaxPreviewSamples Max Preview Samples
 
-HeightValueLabelText Height
-
-Map2ButtonText1 Primary
-Map2ButtonText2 Secondary
-Map2ButtonTooltip Landscape
+Hint_Adjust Lower: [{0}]
+Hint_Flatten Sample height under cursor: [{0}]
+Hint_Ramp Cancel: [{0}]

@@ -69,17 +69,17 @@ Shutdown_Reason 该服务器已被关闭，因为：{0}
 PingV2 你的延迟太高了！（{0}ms），超出了服务器的最大延迟限制（{1}ms）
 Plugin 这个服务器正在运行一个插件，它禁止你的账户进入此服务器。
 Plugin_Reason 插件: {0}
-Barricade 你的文件缺少一个该服务器正在使用的自定义障碍物(barricade)文件（{0}）。
-Structure 你的文件缺少一个该服务器正在使用的自定义结构(structure)文件（{0}）。
-Vehicle 你的文件缺少一个该服务器正在使用的自定义载具(vehicle)文件（{0}）。
-Client_Module_Desync 这个服务器缺少一个你的文件正在使用的自定义模组。
-Server_Module_Desync 你的文件缺少该服务器正在使用的一个自定义模组。
+Barricade 你的Unturned缺少一个该服务器正在使用的自定义障碍物(barricade)文件（{0}）。
+Structure 你的Unturned缺少一个该服务器正在使用的自定义建筑(structure)文件（{0}）。
+Vehicle 你的Unturned缺少一个该服务器正在使用的自定义载具(vehicle)文件（{0}）。
+Client_Module_Desync 这个服务器缺少一个你的Unturned正在使用的自定义模组。
+Server_Module_Desync 你的Unturned缺少该服务器正在使用的一个自定义模组。
 BattlEye_Broken BattlEye: 服务没有安装或没有正常运行，请从启动器中重新启动。如果你卸载了BattlEye或者跳过了安装步骤，那么你可以通过运行Unturned/BattlEye文件夹中的Install_BattlEye.bat脚本来重新安装它。
 BattlEye_Update BattlEye: 服务需要更新，请重启Steam。
 BattlEye_Unknown BattlEye: 未知请求，请重启Steam。
 Level_Version This server has {1} version {0} installed, whereas you have version {2}.
 Econ_Hash This server is running a different inventory version.
-Master_Bundle_Hash Asset bundle error: {0}
+Master_Bundle_Hash 资产包错误: {0}
 Failure_Unknown 未知故障：{0} 原因：{1}。
 Reject_Unknown 因不明原因被拒绝：{0}。
 Workshop_Download_Restriction Server was not authorized by the creators of {0} workshop item(s) to use their content.

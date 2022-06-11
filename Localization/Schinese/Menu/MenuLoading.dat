@@ -2,10 +2,10 @@ VAC_Secure VAC 安全
 VAC_Insecure VAC 不安全
 BattlEye_Secure 战眼(BattlEye)已启用
 BattlEye_Insecure 战眼(BattlEye)已禁用
-Streamer Streamer Mode
+Streamer 主播模式
 Offline 离线
 
-Loading_Level_Play 加载地图 {0} 版本v{1} 在 {2} [{3}] 上...
+Loading_Level_Play 加载地图 {0} v{1} 在 {2} [{3}] 上...
 Loading_Level_Edit 加载中 {0}...
 
 Loading 加载中...
@@ -23,7 +23,7 @@ Queue_Position 队列位置: #{0}
 Queue_Cancel 取消
 Queue_Cancel_Tooltip 离开队列
 
-Asset 常规(asset)
+Asset 资产(asset)
 Item 物品(item)
 Effect 效果(effect)
 Object 对象(object)

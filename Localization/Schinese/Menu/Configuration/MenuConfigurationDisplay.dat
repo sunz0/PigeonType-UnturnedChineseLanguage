@@ -1,10 +1,10 @@
-Buffer_Toggle_Label 垂直同步 (VSync)
-User_Interface_Scale_Field_Label UI比例
-UseTargetFrameRate_Toggle_Label 限制FPS
-TargetFrameRate_Field_Label 最大FPS
+Buffer_Toggle_Label VSync
+User_Interface_Scale_Field_Label UI Scale
+UseTargetFrameRate_Toggle_Label Limit Framerate
+TargetFrameRate_Field_Label Max Framerate
 
-Fullscreen_Mode_Label 全屏模式
-Fullscreen_Mode_Tooltip 游戏如何全屏
-Fullscreen_Mode_Exclusive 独占
-Fullscreen_Mode_Borderless 无边界
-Fullscreen_Mode_Windowed 窗口化
+Fullscreen_Mode_Label Fullscreen Mode
+Fullscreen_Mode_Tooltip How game shares the display
+Fullscreen_Mode_Exclusive Exclusive
+Fullscreen_Mode_Borderless Borderless
+Fullscreen_Mode_Windowed Windowed
