@@ -10,7 +10,7 @@
 - 先检测patch目录（放汉化文件的地方）下面的Bundles等等文件夹是否存在，不存在关闭，存在继续。
 - 使用reg query功能来取注册表“HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 304930”路径下的 InstallLocation 项中的值，把得到的值存入%InstallLocation% 变量中。
 - 取到InstallLocation的值后 使用if not exist检验文件夹是否存在（如果报错 也会显示不存在）
-- 使用robocopy把patch目录下文件统统复制到%InstallLocation%下
+- 使用robocopy把patch目录下文件统统复制到%InstallLocation%下。
 ## 我该如何贡献？
 没事，即使你不会，下面的表格你也应该懂了！
 
@@ -118,4 +118,4 @@ Description Belgian assault rifle chambered in Military ammunition.
 ### 现处于Beta阶段
 如你所见，一些物品的文件还没上传到github。之后一个小鸽子会添加的！
 ### 注意事项
-- 在提交PR时务必要把版本对上号！如v3.28版本的翻译必须提交到v3.28的分支上！（不过我会检查的，但是还是希望你们不要推错了！）
+- 在提交PR时务必要把版本对上号！别把旧版推到新版上(
