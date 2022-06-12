@@ -1,8 +1,16 @@
 # PigeonType-UnturnedChineseLanguage
 ## Hi！
-你现在v3.22.10.0的分支中！
+你现在v3.22.11.3的分支中！
 ## 这是什么项目？
 这是一个在Github上的，所有人都可以参加的，Unturned翻译项目！
+## PigeonTypeZhLangInstaller
+### 制作原因
+- 安装汉化太烦了，于是出现这样全自动的安装脚本
+### 过程介绍
+- 先检测patch目录（放汉化文件的地方）下面的Bundles等等文件夹是否存在，不存在关闭，存在继续。
+- 使用reg query功能来取注册表“HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 304930”路径下的 InstallLocation 项中的值，把得到的值存入%InstallLocation% 变量中。
+- 取到InstallLocation的值后 使用if not exist检验文件夹是否存在（如果报错 也会显示不存在）
+- 使用robocopy把patch目录下文件统统复制到%InstallLocation%下
 ## 我该如何贡献？
 没事，即使你不会，下面的表格你也应该懂了！
 
