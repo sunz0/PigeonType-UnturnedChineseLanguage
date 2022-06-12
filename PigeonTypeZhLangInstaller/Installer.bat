@@ -3,15 +3,16 @@
 :: PigeonTypeZhLangInstaller @ Version 2022/6/12
 :: 由 一个小鸽子制作，你可以转载但绝对不能盗取。
 :: 
-:: 使用 UTF-8 编码 （在release会使用ANSI）
+:: 使用 UTF8 编码 
 :: 
 :: 只开源最主要的安装脚本部分。
 ::
 :: 使用的工具：
-:: (1) 7z 命令行（用于创建备份包，85~104行）
+:: (1) 7z 命令行
 ::
 
 @echo off
+color 5f
 title Unturned 汉化安装脚本 
 set Translations=patch\Translations\
 set Maps=patch\Maps\
@@ -20,7 +21,7 @@ set Localization=patch\Localization\Schinese\
 setlocal enabledelayedexpansion
 echo. -----------------------------------------------------------------------------------------------------------------------
 echo. 	    一个小鸽子	            
-echo.         Unturned 汉化安装脚本 :: https://github.com/YigeXiaogeziAwa/PigeonType-UnturnedChineseLanguage                  
+echo.     Unturned 汉化安装器 :: https://github.com/YigeXiaogeziAwa/PigeonType-UnturnedChineseLanguage                 
 echo. -----------------------------------------------------------------------------------------------------------------------
 echo.
 echo [ %time% - 自检工作 ] 检测汉化文件是否存在...
@@ -96,7 +97,6 @@ title 创建备份包 - bak-Bundles.zip - 删除 Sources 等不需要的文件�
 7z d bak-Bundles.zip Levels\ -r
 7z d bak-Bundles.zip Spawns\ -r
 7z d bak-Bundles.zip Assets\ -r
-7z d bak-Bundles.zip Objects\ -r
 7z d bak-Bundles.zip Effects\ -r
 title 创建备份包 - bak-Translations.zip - 打包 %InstallLocation%\Translations ...
 7z a bak-Translations.zip "%InstallLocation%\Translations" -mmt 
