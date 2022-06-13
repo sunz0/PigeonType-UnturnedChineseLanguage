@@ -2,10 +2,10 @@
 - [PigeonType-UnturnedChineseLanguage](#pigeontype-unturnedchineselanguage)
   - [这是什么项目？](#这是什么项目)
   - [我该如何贡献？](#我该如何贡献)
-    - [这是文件夹的各种含义](#这是文件夹的各种含义)
-    - [这是Bundles文件夹中的找文件格式](#这是bundles文件夹中的找文件格式)
-    - [这是文件夹中文件的含义（Menu）](#这是文件夹中文件的含义menu)
-    - [这是文件夹中文件的含义（Player）](#这是文件夹中文件的含义player)
+    - [文件夹的含义](#文件夹的含义)
+    - [Bundles文件夹内词条文件格式](#bundles文件夹内词条文件格式)
+    - [文件的含义（Menu）](#文件的含义menu)
+    - [文件的含义（Player）](#文件的含义player)
   - [怎么翻译？](#怎么翻译)
     - [Example（Localization）](#examplelocalization)
     - [Example（Bundles）](#examplebundles)
@@ -20,7 +20,7 @@
 ## 我该如何贡献？
 没事，即使你不会，下面的表格你也应该懂了！
 
-### 这是文件夹的各种含义
+### 文件夹的含义
 | 目录                          | 内容                                          |
 | ----------------------------- | --------------------------------------------- |
 | /Maps/(关卡名称)/             | 地图的描述文件                                |
@@ -36,7 +36,7 @@
 | /Bundles/NPCs                 | NPC文件（NPC对话内容/NPC名字）                |
 | /Bundles/Objects              | 求大佬解释                                    |
 | /Bundles/Vehicles             | 车辆文件                                      |
-### 这是Bundles文件夹中的找文件格式
+### Bundles文件夹内词条文件格式
 | 目录                         | 内容       |
 | ---------------------------- | ---------- |
 | /Bundles/Animals/(名字)      | /          |
@@ -44,7 +44,7 @@
 | /Bundles/NPCs/(类型)/(名字)    | /          |
 | /Bundles/Objects             | 求大佬解释 |
 | /Bundles/Vehicles/(名字)            | /   |
-### 这是文件夹中文件的含义（Menu）
+### 文件的含义（Menu）
 | 目录                                      | 文件                            | 内容                                                |
 | ----------------------------------------- | ------------------------------- | --------------------------------------------------- |
 | /Localization/Schinese/Menu               | MenuDashboard.dat               | 主界面菜单/各种被踢出原因                           |
@@ -77,7 +77,7 @@
 | /Localization/Schinese/Menu/Survivors     | MenuSurvivorsClothingItem.dat   | 点进皮肤的详细界面（比如use）                       |
 | /Localization/Schinese/Menu/Survivors     | MenuSurvivorsGroup.dat          | 组                                                  |
 | /Localization/Schinese/Menu/Workshop      | *                               | 创意工坊界面 （鸽子不懂技术层面的内容 求大佬解释）  |
-### 这是文件夹中文件的含义（Player）
+### 文件的含义（Player）
 | 目录                                  | 文件                         | 内容                                                                 |
 | ------------------------------------- | ---------------------------- | -------------------------------------------------------------------- |
 | /Localization/Schinese/Player         | PlayerPause.dat              | 玩家暂停游戏                                                         |
@@ -108,7 +108,7 @@ Test4 English {1} {2} {3}
 - {1} {2} {3} 为多个替换符也不能更改，顶多因为翻译换一下顺序！
 ### Example（Bundles）
 - 假如我找 碎心人 枪械的语言文件，那就要去Items文件夹，找到Guns列表，找到Heartbreaker文件夹，打开Heartbreaker文件夹会有两个文件（Heartbreaker.dat / English.dat）
-- 打开English.dat，你能看到下面的内容
+- 打开English.dat，你能看到下面的内容（有些并没有"Description"，就比如animal/bear）
 ```
 Name Heartbreaker
 Description Belgian assault rifle chambered in Military ammunition.
