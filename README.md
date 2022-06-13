@@ -1,25 +1,27 @@
-# PigeonType-UnturnedChineseLanguage
-- [PigeonType-UnturnedChineseLanguage](#pigeontype-unturnedchineselanguage)
-  - [这是什么项目？](#这是什么项目)
-  - [我该如何贡献？](#我该如何贡献)
+# 鸽式未转变者中文汉化 - 一个所有人都能参与的项目
+- [鸽式未转变者中文汉化 - 一个所有人都能参与的项目](#鸽式未转变者中文汉化---一个所有人都能参与的项目)
+  - [项目介绍](#项目介绍)
+  - [贡献教程](#贡献教程)
+    - [下载项目文件](#下载项目文件)
     - [文件夹的含义](#文件夹的含义)
     - [Bundles文件夹内词条文件格式](#bundles文件夹内词条文件格式)
     - [文件的含义（Menu）](#文件的含义menu)
     - [文件的含义（Player）](#文件的含义player)
-  - [怎么翻译？](#怎么翻译)
+  - [翻译过程](#翻译过程)
     - [Example（Localization）](#examplelocalization)
     - [Example（Bundles）](#examplebundles)
-    - [审核？](#审核)
-    - [现处于Beta阶段](#现处于beta阶段)
+    - [审核说明](#审核说明)
     - [注意事项](#注意事项)
 - [PigeonTypeZhLangInstaller](#pigeontypezhlanginstaller)
     - [制作原因](#制作原因)
     - [过程介绍](#过程介绍)
-## 这是什么项目？
+- [贡献名单](#贡献名单)
+## 项目介绍
 这是一个在Github上的，所有人都可以参加的，Unturned翻译项目！
-## 我该如何贡献？
-没事，即使你不会，下面的表格你也应该懂了！
-
+## 贡献教程
+手把手教你怎么汉化
+### 下载项目文件
+![image][.\__markdown__\1-3-1__1.png]
 ### 文件夹的含义
 | 目录                          | 内容                                          |
 | ----------------------------- | --------------------------------------------- |
@@ -41,9 +43,9 @@
 | ---------------------------- | ---------- |
 | /Bundles/Animals/(名字)      | /          |
 | /Bundles/Items/(类型)/(名字) | /          |
-| /Bundles/NPCs/(类型)/(名字)    | /          |
+| /Bundles/NPCs/(类型)/(名字)  | /          |
 | /Bundles/Objects             | 求大佬解释 |
-| /Bundles/Vehicles/(名字)            | /   |
+| /Bundles/Vehicles/(名字)     | /          |
 ### 文件的含义（Menu）
 | 目录                                      | 文件                            | 内容                                                |
 | ----------------------------------------- | ------------------------------- | --------------------------------------------------- |
@@ -94,15 +96,16 @@
 | /Localization/Schinese/Player         | PlayerBarricadeSign.dat      | 告示牌的UI                                                           |
 | /Localization/Schinese/Player         | PlayerBarricadeStereo.dat    | 收音机的UI                                                           |
 | /Localization/Schinese/Player/Useable | PlayerUseableGun.dat         | 玩家使用远程武器信息栏                                               |
-## 怎么翻译？
+## 翻译过程
 ### Example（Localization）
 ```
 Test1 English
 Test2 English
 Test3 English {1}
 Test4 English {1} {2} {3}
+Test5 English{1}{2}{3}
 ```
-- "Test1~4"为开发者设置的名字，绝对不能更改！不然会导致Unturned无法识别，会变成#TEST1的（就像翻译文件没更新，<u>新版Unturned的退出按钮就会变成#QUIT_BUTTON<u> 在3.22.11.0的更新中，会显示原版英文。）
+- "Test1~4"为开发者设置的名字，绝对不能更改！不然会导致Unturned无法识别，会变成#TEST1的（就像翻译文件没更新，~~新版Unturned的退出按钮就会变成#QUIT_BUTTON~~（在3.22.11.0的更新中，会显示原版英文。）
 - "English"才是翻译文本，你只能修改这个！
 - {1} 为替换符，绝对要格式对，不然会导致UI不显示问题！{}是英文！{1}中的数字也不能更改.
 - {1} {2} {3} 为多个替换符也不能更改，顶多因为翻译换一下顺序！
@@ -116,13 +119,11 @@ Description Belgian assault rifle chambered in Military ammunition.
 - Name (名字)
 - Description (描述)
 - 翻译后把English改成Schinese.dat，删除Heartbreaker.dat 大功告成，然后提交PR。
-### 审核？
+### 审核说明
 - 在当日0:00~17:00提交PR当日18:00后审核。
 - 在当日17:00~20:00提交PR当日21:00后审核。
 - 在当日22:00之后提交PR次日18:00后审核。
 - 除非有特殊情况，不然都是当日/次日审核。
-### 现处于Beta阶段
-如你所见，一些物品的文件还没上传到github。之后一个小鸽子会添加的！
 ### 注意事项
 - 在提交PR时务必要把版本对上号！别把旧版推到新版上
 - 如果你不会pr，可以b站私信我...（https://space.bilibili.com/1372244620）
@@ -135,3 +136,7 @@ Description Belgian assault rifle chambered in Military ammunition.
 - 使用reg query功能来取注册表“HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 304930”路径下的 InstallLocation 项中的值，把得到的值存入%InstallLocation% 变量中。
 - 取到InstallLocation的值后 使用if not exist检验文件夹是否存在（如果报错 也会显示不存在）
 - 使用robocopy把patch目录下文件统统复制到%InstallLocation%下。
+# 贡献名单
+- 一个小鸽子(https://github.com/YigeXiaogeziAwa) | Github / 97 commits
+- ruanwei8110 | 场外援助
+- 渣白 | 场外援助
