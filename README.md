@@ -118,4 +118,5 @@ Description Belgian assault rifle chambered in Military ammunition.
 ### 现处于Beta阶段
 如你所见，一些物品的文件还没上传到github。之后一个小鸽子会添加的！
 ### 注意事项
-- 在提交PR时务必要把版本对上号！别把旧版推到新版上(
+- 在提交PR时务必要把版本对上号！别把旧版推到新版上
+- 如果你不会pr，可以b站私信我...（https://space.bilibili.com/1372244620）
