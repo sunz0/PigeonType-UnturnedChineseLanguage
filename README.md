@@ -1,5 +1,20 @@
 # PigeonType-UnturnedChineseLanguage
-[toc]
+- [PigeonType-UnturnedChineseLanguage](#pigeontype-unturnedchineselanguage)
+  - [这是什么项目？](#这是什么项目)
+  - [我该如何贡献？](#我该如何贡献)
+    - [这是文件夹的各种含义](#这是文件夹的各种含义)
+    - [这是Bundles文件夹中的找文件格式](#这是bundles文件夹中的找文件格式)
+    - [这是文件夹中文件的含义（Menu）](#这是文件夹中文件的含义menu)
+    - [这是文件夹中文件的含义（Player）](#这是文件夹中文件的含义player)
+  - [怎么翻译？](#怎么翻译)
+    - [Example（Localization）](#examplelocalization)
+    - [Example（Bundles）](#examplebundles)
+    - [审核？](#审核)
+    - [现处于Beta阶段](#现处于beta阶段)
+    - [注意事项](#注意事项)
+- [PigeonTypeZhLangInstaller](#pigeontypezhlanginstaller)
+    - [制作原因](#制作原因)
+    - [过程介绍](#过程介绍)
 ## 这是什么项目？
 这是一个在Github上的，所有人都可以参加的，Unturned翻译项目！
 ## 我该如何贡献？
