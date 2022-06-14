@@ -10,13 +10,13 @@
   - [三、翻译过程](#三翻译过程)
     - [Example（Localization）](#examplelocalization)
     - [Example（Bundles）](#examplebundles)
-    - [四、审核说明](#四审核说明)
-    - [五、注意事项](#五注意事项)
+  - [四、审核说明](#四审核说明)
+  - [五、注意事项](#五注意事项)
+  - [六、贡献名单](#六贡献名单)
 - [PigeonTypeZhLangInstaller - 鸽式未转变者汉化全自动安装器](#pigeontypezhlanginstaller---鸽式未转变者汉化全自动安装器)
     - [一、制作原因](#一制作原因)
     - [二、使用工具](#二使用工具)
     - [三、原理](#三原理)
-- [七、贡献名单](#七贡献名单)
 ## 一、项目介绍
 这是一个在Github上的，`所有人都可以参加`的，Unturned翻译项目！
 ## 二、贡献教程
@@ -117,14 +117,18 @@ Description Belgian assault rifle chambered in Military ammunition.
 - Name (名字)
 - Description (描述)
 - 翻译后把`English.dat`改成`Schinese.dat`，删除`Heartbreaker.dat` 大功告成，然后提交PR。
-### 四、审核说明
+## 四、审核说明
 - 在当日0:00~17:00提交PR当日18:00后审核。
 - 在当日17:00~20:00提交PR当日21:00后审核。
 - 在当日22:00之后提交PR次日18:00后审核。
 - 除非有特殊情况，不然都是当日/次日审核。
-### 五、注意事项
+## 五、注意事项
 - 在提交PR时务必要把版本对上号！别把旧版推到新版上
 - 如果你不会pr，可以b站私信我...（https://space.bilibili.com/1372244620）
+## 六、贡献名单
+- 一个小鸽子(https://github.com/YigeXiaogeziAwa) | Github
+- ruanwei8110 | 场外援助
+- 渣白 | 场外援助
 
 # PigeonTypeZhLangInstaller - 鸽式未转变者汉化全自动安装器
 ### 一、制作原因
@@ -133,11 +137,6 @@ Description Belgian assault rifle chambered in Military ammunition.
 > 7z 命令行工具
 ### 三、原理
 - 先检测patch目录（放汉化文件的地方）下面的Bundles等等文件夹是否存在，不存在关闭，存在继续。
-- 使用reg query功能来取注册表“HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 304930”路径下的 InstallLocation 项中的值，把得到的值存入%InstallLocation% 变量中。
-- 取到InstallLocation的值后 使用if not exist检验文件夹是否存在（如果报错 也会显示不存在）
-- 使用robocopy把patch目录下文件统统复制到%InstallLocation%下。
-
-# 七、贡献名单
-- 一个小鸽子(https://github.com/YigeXiaogeziAwa) | Github
-- ruanwei8110 | 场外援助
-- 渣白 | 场外援助
+- 使用`reg query`功能来取注册表`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 304930`路径下的`InstallLocation`项中的值，把得到的值存入`%InstallLocation%`变量中。
+- 取到`InstallLocation`的值后 使用`if not exist`检验文件夹是否存在（如果报错 也会显示不存在）
+- 使用`robocopy`把patch目录下文件统统复制到%InstallLocation%下。
