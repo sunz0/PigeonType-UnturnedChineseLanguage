@@ -133,6 +133,6 @@ Description Belgian assault rifle chambered in Military ammunition.
 - 取到InstallLocation的值后 使用if not exist检验文件夹是否存在（如果报错 也会显示不存在）
 - 使用robocopy把patch目录下文件统统复制到%InstallLocation%下。
 # 贡献名单
-- 一个小鸽子(https://github.com/YigeXiaogeziAwa) | Github / 97 commits
+- 一个小鸽子(https://github.com/YigeXiaogeziAwa) | Github
 - ruanwei8110 | 场外援助
 - 渣白 | 场外援助
