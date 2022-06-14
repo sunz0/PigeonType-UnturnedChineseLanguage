@@ -1,23 +1,25 @@
+[!](_README_/LOGO.jpg)
 # 鸽式未转变者中文汉化 - 一个所有人都能参与的项目
 - [鸽式未转变者中文汉化 - 一个所有人都能参与的项目](#鸽式未转变者中文汉化---一个所有人都能参与的项目)
-  - [项目介绍](#项目介绍)
-  - [贡献教程](#贡献教程)
+  - [一、项目介绍](#一项目介绍)
+  - [二、贡献教程](#二贡献教程)
     - [文件夹的含义](#文件夹的含义)
     - [Bundles文件夹内词条文件格式](#bundles文件夹内词条文件格式)
     - [文件的含义（Menu）](#文件的含义menu)
     - [文件的含义（Player）](#文件的含义player)
-  - [翻译过程](#翻译过程)
+  - [三、翻译过程](#三翻译过程)
     - [Example（Localization）](#examplelocalization)
     - [Example（Bundles）](#examplebundles)
-    - [审核说明](#审核说明)
-    - [注意事项](#注意事项)
-- [PigeonTypeZhLangInstaller](#pigeontypezhlanginstaller)
-    - [制作原因](#制作原因)
-    - [过程介绍](#过程介绍)
-- [贡献名单](#贡献名单)
-## 项目介绍
-这是一个在Github上的，所有人都可以参加的，Unturned翻译项目！
-## 贡献教程
+    - [四、审核说明](#四审核说明)
+    - [五、注意事项](#五注意事项)
+- [PigeonTypeZhLangInstaller - 鸽式未转变者汉化全自动安装器](#pigeontypezhlanginstaller---鸽式未转变者汉化全自动安装器)
+    - [一、制作原因](#一制作原因)
+    - [二、使用工具](#二使用工具)
+    - [三、原理](#三原理)
+- [七、贡献名单](#七贡献名单)
+## 一、项目介绍
+这是一个在Github上的，`所有人都可以参加`的，Unturned翻译项目！
+## 二、贡献教程
 ### 文件夹的含义
 | 目录                          | 内容                                          |
 | ----------------------------- | --------------------------------------------- |
@@ -92,7 +94,7 @@
 | /Localization/Schinese/Player         | PlayerBarricadeSign.dat      | 告示牌的UI                                                           |
 | /Localization/Schinese/Player         | PlayerBarricadeStereo.dat    | 收音机的UI                                                           |
 | /Localization/Schinese/Player/Useable | PlayerUseableGun.dat         | 玩家使用远程武器信息栏                                               |
-## 翻译过程
+## 三、翻译过程
 ### Example（Localization）
 ```
 Test1 English
@@ -101,38 +103,41 @@ Test3 English {1}
 Test4 English {1} {2} {3}
 Test5 English{1}{2}{3}
 ```
-- "Test1~4"为开发者设置的名字，绝对不能更改！不然会导致Unturned无法识别，会变成#TEST1的（就像翻译文件没更新，~~新版Unturned的退出按钮就会变成#QUIT_BUTTON~~（在3.22.11.0的更新中，会显示原版英文。）
-- "English"才是翻译文本，你只能修改这个！
-- {1} 为替换符，绝对要格式对，不然会导致UI不显示问题！{}是英文！{1}中的数字也不能更改.
-- {1} {2} {3} 为多个替换符也不能更改，顶多因为翻译换一下顺序！
+- `Test1~4`为开发者设置的名字，绝对不能更改！不然会导致Unturned无法识别，会变成`#TEST1`的（就像翻译文件没更新，~~新版Unturned的退出按钮就会变成#QUIT_BUTTON~~（在3.22.11.0的更新中，会显示原版英文。）
+- `English`才是翻译文本，你只能修改这个！
+- `{1}` 为替换符，绝对要格式对，不然会导致UI不显示问题！`{}`是英文！`{1}`中的数字也不能更改.
+- `{1} {2} {3}` 为多个替换符也不能更改，顶多因为翻译换一下顺序！
 ### Example（Bundles）
-- 假如我找 碎心人 枪械的语言文件，那就要去Items文件夹，找到Guns列表，找到Heartbreaker文件夹，打开Heartbreaker文件夹会有两个文件（Heartbreaker.dat / English.dat）
-- 打开English.dat，你能看到下面的内容（有些并没有"Description"，就比如animal/bear）
+- 假如我找`碎心人`枪械的语言文件，那就要去`Items`文件夹，找到`Guns`列表，找到`Heartbreaker`文件夹，打开`Heartbreaker`文件夹会有两个文件（`Heartbreaker.dat` / `English.dat`）
+- 打开`English.dat`，你能看到下面的内容（有些并没有"Description"，就比如animal/bear）
 ```
 Name Heartbreaker
 Description Belgian assault rifle chambered in Military ammunition.
 ```
 - Name (名字)
 - Description (描述)
-- 翻译后把English改成Schinese.dat，删除Heartbreaker.dat 大功告成，然后提交PR。
-### 审核说明
+- 翻译后把`English.dat`改成`Schinese.dat`，删除`Heartbreaker.dat` 大功告成，然后提交PR。
+### 四、审核说明
 - 在当日0:00~17:00提交PR当日18:00后审核。
 - 在当日17:00~20:00提交PR当日21:00后审核。
 - 在当日22:00之后提交PR次日18:00后审核。
 - 除非有特殊情况，不然都是当日/次日审核。
-### 注意事项
+### 五、注意事项
 - 在提交PR时务必要把版本对上号！别把旧版推到新版上
 - 如果你不会pr，可以b站私信我...（https://space.bilibili.com/1372244620）
 
-# PigeonTypeZhLangInstaller
-### 制作原因
+# PigeonTypeZhLangInstaller - 鸽式未转变者汉化全自动安装器
+### 一、制作原因
 - 安装汉化太烦了，于是出现这样全自动的安装脚本
-### 过程介绍
+### 二、使用工具
+> 7z 命令行工具
+### 三、原理
 - 先检测patch目录（放汉化文件的地方）下面的Bundles等等文件夹是否存在，不存在关闭，存在继续。
 - 使用reg query功能来取注册表“HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 304930”路径下的 InstallLocation 项中的值，把得到的值存入%InstallLocation% 变量中。
 - 取到InstallLocation的值后 使用if not exist检验文件夹是否存在（如果报错 也会显示不存在）
 - 使用robocopy把patch目录下文件统统复制到%InstallLocation%下。
-# 贡献名单
+
+# 七、贡献名单
 - 一个小鸽子(https://github.com/YigeXiaogeziAwa) | Github
 - ruanwei8110 | 场外援助
 - 渣白 | 场外援助
