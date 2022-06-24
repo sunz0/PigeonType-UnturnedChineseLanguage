@@ -11,6 +11,7 @@ Quality_Max 50
 
 Food 20
 Water 10
+Food_Constrains_Water
 
 Actions 1
 Action_0_Type Blueprint
@@ -18,4 +19,3 @@ Action_0_Source 330
 Action_0_Blueprints 1
 Action_0_Blueprint_0_Index 0
 Action_0_Key Craft_Seed
-ConsumeAudioClip Sounds/EatCrunchy.mp3

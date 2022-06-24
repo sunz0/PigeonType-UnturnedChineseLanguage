@@ -16,10 +16,6 @@ Shape_Tooltip Shape
 Sphere Sphere
 Box Box
 
-DeadzoneType_DefaultRadiation Default
-DeadzoneType_FullSuitRadiation Full Suit
-DeadzoneType_Tooltip Deadzone Type
-
 Type_Tooltip Type
 Location Location
 Safezone Safezone

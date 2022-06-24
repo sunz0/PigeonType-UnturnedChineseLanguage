@@ -1,31 +1,31 @@
-Return_Button 返回
-Return_Button_Tooltip 返回
+Return_Button Return
+Return_Button_Tooltip Return
 
-Exit_Button 退出游戏
-Exit_Button_Tooltip 退出游戏，并回到桌面
+Exit_Button Exit
+Exit_Button_Tooltip Exit
 
-Report_Button 反馈Bug
-Report_Button_Tooltip 反馈Bug
+Report_Button Report Bug
+Report_Button_Tooltip Report Bug
 
-Trello_Button Trello 路线图
-Trello_Button_Tooltip 看一看《Unturned》的未来吧！
+Trello_Button Trello Roadmap
+Trello_Button_Tooltip Take a look into the future!
 
-Twitter_Button 推特新闻
-Twitter_Button_Tooltip 开发信息和更新提醒。
+Twitter_Button  Twitter News
+Twitter_Button_Tooltip Development info and update alerts.
 
-Steam_Button Steam新闻
-Steam_Button_Tooltip 完整的公告帖子和评论！
+Steam_Button Steam News
+Steam_Button_Tooltip Full announcement posts and comments.
 
-Credits_Button 制作组
-Credits_Button_Tooltip 所有与《Unturned》有关的人！
+Credits_Button Credits
+Credits_Button_Tooltip Everyone involved with Unturned.
 
-Forum_Button 论坛
-Forum_Button_Tooltip 成熟的讨论区
+Forum_Button Forum
+Forum_Button_Tooltip Mature discussion boards.
 
-Blog_Button 博客
-Blog_Button_Tooltip 发展和个人职位
+Blog_Button Blog
+Blog_Button_Tooltip Development and personal posts.
 
-Wiki_Button 维基百科
-Wiki_Button_Tooltip 社区经营的维基百科。
+Wiki_Button Wiki
+Wiki_Button_Tooltip Community-run library. 
 
-Overlay 需要启用Steam Overlay功能
+Overlay Steam overlay needs to be enabled.

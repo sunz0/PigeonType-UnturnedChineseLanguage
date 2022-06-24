@@ -5,11 +5,6 @@ ID 148
 
 Speed_Min -6
 Speed_Max 13
-Wheel_Collider_Mass_Override 5
-
-Num_Steering_Tires 4
-Steering_Tire_2 4
-Steering_Tire_3 5
 
 Steer_Min 16
 Steer_Max 32
@@ -38,6 +33,3 @@ Invulnerable
 Tires_Invulnerable
 
 Shared_Skin_Lookup_ID 53
-
-IgnitionAudioClip Sounds/CarIgnition.mp3
-HornAudioClip Sounds/CarHorn_03.mp3

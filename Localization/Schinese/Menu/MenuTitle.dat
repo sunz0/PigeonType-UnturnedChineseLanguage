@@ -1,20 +1,20 @@
-Author_Label 由 {1} 制作  //    版本 {0}
+Author_Label by {1}    //    Version {0}
 
-Stat_Kills_Zombies_Normal 你已经杀死了 {0} 个正常的僵尸! 世界各地的玩家已经杀死了{1}个!
-Stat_Kills_Players 你已经杀死了 {0} 名玩家! 世界各地的玩家已经杀死了 {1}个!
-Stat_Deaths_Players 你已经死了 {0} 次! 世界各地的玩家已经死亡 {1} 次!
-Stat_Found_Items 你已经找到了 {0} 件物品! 世界各地的玩家已经找到了 {1} 件!
-Stat_Found_Resources 你已经收获了 {0} 种资源! 世界各地的玩家已经收获了 {1} 种!
-Stat_Found_Experience 你已经获得了 {0} 经验! 全世界的玩家都获得了 {1} 经验!
-Stat_Kills_Zombies_Mega 你已经杀死了 {0} 个巨型僵尸! 世界各地的玩家已经杀死了 {1} 个!
-Stat_Kills_Animals 你已经杀死了 {0} 只动物! 世界各地的玩家已经杀死了 {1} 个!
-Stat_Found_Crafts 你已经制作了 {0} 件物品! 世界各地的玩家已经制作了 {1} 件物品!
-Stat_Found_Fishes 你已经钓到了 {0} 条鱼! 世界各地的玩家已经钓到了 {1} 条!
-Stat_Found_Plants 你已经种植了 {0} 棵植物! 世界各地的玩家已经种植了 {1} 棵植物!
-Stat_Accuracy 你已经以 {1} %的准确率发射了 {0} 发子弹! 世界各地的玩家已经发射了 {2} 次，准确率为 {3} %!
-Stat_Headshots 你已经击中了 {0} 个爆头! 世界各地的玩家已经击中了 {1} 个!
-Stat_Travel_Foot 你已经走了 {0} 步! 世界各地的玩家已经走了 {1} 步!
-Stat_Travel_Vehicle 你已经开了 {0} 车辆了! 世界各地的玩家已经开了 {1} !
-Stat_Arena_Wins 你已经赢得了 {0} 场比赛! 世界各地的玩家已经赢得了 {1} 场!
-Stat_Found_Buildables 你已经建造了 {0} 个物体! 世界各地的玩家已经建造了 {1} 个!
-Stat_Found_Throwables 你已经投掷了{0} 个投掷物! 世界各地的玩家已经投掷了 {1} 个!
+Stat_Kills_Zombies_Normal You have killed {0} normal zombies! Players worldwide have killed {1}!
+Stat_Kills_Players You have killed {0} players! Players worldwide have killed {1}!
+Stat_Deaths_Players You have died {0} times! Players worldwide have died {1}!
+Stat_Found_Items You have found {0} items! Players worldwide have found {1}!
+Stat_Found_Resources You have harvested {0} resources! Players worldwide have harvested {1}!
+Stat_Found_Experience You have gained {0} experience! Players worldwide have gained {1}!
+Stat_Kills_Zombies_Mega You have killed {0} mega zombies! Players worldwide have killed {1}!
+Stat_Kills_Animals You have killed {0} animals! Players worldwide have killed {1}!
+Stat_Found_Crafts You have crafted {0} items! Players worldwide have crafted {1}!
+Stat_Found_Fishes You have caught {0} fish! Players worldwide have caught {1}!
+Stat_Found_Plants You have grown {0} plants! Players worldwide have grown {1}!
+Stat_Accuracy You have fired {0} shots with {1}% accuracy! Players worldwide have fired {2} with {3}%!
+Stat_Headshots You have hit {0} headshots! Players worldwide have hit {1}!
+Stat_Travel_Foot You have travelled {0} on foot! Players worldwide have travelled {1}!
+Stat_Travel_Vehicle You have travelled {0} in vehicles! Players worldwide have travelled {1}!
+Stat_Arena_Wins You have won {0} arena matches! Players worldwide have won {1}!
+Stat_Found_Buildables You have built {0} objects! Players worldwide have built {1}!
+Stat_Found_Throwables You have thrown {0} projectiles! Players worldwide have thrown {1}!

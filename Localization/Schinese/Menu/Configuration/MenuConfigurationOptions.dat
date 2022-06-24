@@ -1,8 +1,6 @@
-FOV_Slider_LabelV2_Name Field of View
-FOV_Slider_LabelV2_Value Horizontal [{0}°] Vertical [{1}°]
-Volume_Slider_Label Master Volume [{0}%]
-Voice_Slider_Label Voice Chat Volume [{0}%]
-Loading_Screen_Music_Volume_Slider_Label Loading Screen Music Volume [{0}%]
+FOV_Slider_Label Field of View [{0}°]
+Volume_Slider_Label Volume [{0}%]
+Voice_Slider_Label Inbound Voice Gain [{0}%]
 Debug_Toggle_Label Show FPS/Ping
 Music_Toggle_Label Play Menu/Death Music
 Splashscreen_Toggle_Label Splashscreen
@@ -47,5 +45,3 @@ Cursor_Box Cursor Color
 Background_Box Interface Background Color
 Foreground_Box Interface Foreground Color
 Font_Box Font Color
-Shadow_Box Shadow Color
-Bad_Color_Box Negative Color

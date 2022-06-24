@@ -11,10 +11,10 @@ Health 10
 Food 5
 Water 10
 Virus 5
+Food_Constrains_Water
 
 Blueprints 1
 Blueprint_0_Type Supply
 Blueprint_0_Supply_0_ID 270
 Blueprint_0_Supply_0_Amount 2
 Blueprint_0_Build 27
-ConsumeAudioClip Sounds/EatSquishy.mp3

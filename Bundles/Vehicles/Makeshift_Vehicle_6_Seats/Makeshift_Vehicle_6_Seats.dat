@@ -23,7 +23,3 @@ Traction
 
 Explosion 20
 Tires_Invulnerable
-
-Should_Spawn_Seat_Capsules true
-
-IgnitionAudioClip Sounds/CarIgnition.mp3

@@ -28,4 +28,3 @@ Blueprint_0_Supply_1_Amount 3
 Blueprint_0_Build 27
 
 Should_Close_When_Outside_Range true
-PlacementAudioClip Sounds/WoodenPlacement.mp3

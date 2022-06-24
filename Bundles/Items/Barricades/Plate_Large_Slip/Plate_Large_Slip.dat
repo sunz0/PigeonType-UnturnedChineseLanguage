@@ -15,6 +15,7 @@ Radius 0.5
 Offset 1.875
 
 Explosion 36
+Vulnerable
 
 Blueprints 1
 Blueprint_0_Type Barricade
@@ -24,6 +25,3 @@ Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Supply_1_ID 1159
 Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Build 27
-
-Armor_Tier High
-PlacementAudioClip Sounds/MetalPlacement.mp3

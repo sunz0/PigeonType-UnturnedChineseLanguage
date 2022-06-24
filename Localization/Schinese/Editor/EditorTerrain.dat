@@ -2,10 +2,10 @@ HeightButtonText Heights
 HeightButtonTooltip Heightmaps
 
 MaterialsButtonText Materials
-MaterialsButtonTooltip Splatmaps
+MaterialsButtonTooltip Alphamaps
 
-DetailsButtonText Foliage
-DetailsButtonTooltip Grass, rocks, trees, etc.
+DetailsButtonText Details
+DetailsButtonTooltip Detailmaps
 
-TilesButton_Label Tiles
-TilesButton_Tooltip Manage terrain chunks.
+ResourcesButtonText Resources
+ResourcesButtonTooltip Resourcemaps

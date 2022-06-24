@@ -13,6 +13,3 @@ Interactability Dropper
 Interactability_Delay 333
 Interactability_Hint Use
 Interactability_Reward_ID 960
-
-// References landscape texture.
-Ignore_TexRW

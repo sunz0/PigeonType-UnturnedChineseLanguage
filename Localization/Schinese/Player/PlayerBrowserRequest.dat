@@ -1,6 +1,6 @@
-Request 服务器要求你打开这个链接在Steam游戏内置界面中
+Request The server asks you to open this link in the Steam overlay:
 
-Yes_Button 同意
-Yes_Button_Tooltip 查看页面
-No_Button 不同意
-No_Button_Tooltip 不查看页面。
+Yes_Button Accept
+Yes_Button_Tooltip View Page
+No_Button Reject
+No_Button_Tooltip Ignore Request

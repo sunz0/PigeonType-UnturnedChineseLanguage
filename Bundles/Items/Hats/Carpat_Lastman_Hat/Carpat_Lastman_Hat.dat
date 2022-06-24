@@ -10,6 +10,3 @@ Beard
 Hair
 
 Pro
-
-// Future curated assets should be power of 2, but we ignore warnings for a few pre-warning items.
-Ignore_NPOT

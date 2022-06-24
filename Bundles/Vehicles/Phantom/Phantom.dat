@@ -5,7 +5,6 @@ ID 123
 
 Speed_Min -5
 Speed_Max 22
-Wheel_Collider_Mass_Override 5
 
 Steer_Min 14
 Steer_Max 28
@@ -24,5 +23,3 @@ Trunk_Storage_X 5
 Trunk_Storage_Y 3
 
 Explosion 20
-
-IgnitionAudioClip Sounds/CarIgnition.mp3

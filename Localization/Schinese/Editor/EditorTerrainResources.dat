@@ -1,0 +1,28 @@
+DensitySliderLabelText Density
+ChanceSliderLabelText Chance
+HealthFieldLabelText Health
+Tree_0_ToggleLabelText Tree #1
+Tree_1_ToggleLabelText Tree #2
+Flower_0_ToggleLabelText Flower #1
+Flower_1_ToggleLabelText Flower #2
+RockToggleLabelText Rock
+RoadToggleLabelText Road
+SnowToggleLabelText Snow
+
+BakeGlobalResourcesButtonText Bake Global
+BakeGlobalResourcesButtonTooltip Generate Resourcemap
+
+BakeLocalResourcesButtonText Bake Local
+BakeLocalResourcesButtonTooltip Generate Resourcemap
+
+BakeSkyboxResourcesButtonText Bake Skybox
+BakeSkyboxResourcesButtonTooltip Generate Resourcemap
+
+SelectionBoxLabelText Selection
+RadiusSliderLabelText Radius
+
+AddButtonText Add [{0}]
+AddButtonTooltip Create Spawnpoint
+
+RemoveButtonText Sub [{0}]
+RemoveButtonTooltip Remove Spawnpoints

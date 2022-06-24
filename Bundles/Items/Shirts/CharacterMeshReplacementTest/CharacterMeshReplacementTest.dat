@@ -11,5 +11,3 @@ Size_Z 0.35
 Has_1P_Character_Mesh_Override True
 Character_Mesh_3P_Override_LODs 1
 Has_Character_Material_Override True
-
-Beard_Visible False

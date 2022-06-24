@@ -22,7 +22,3 @@ Health 350
 Traction
 
 Explosion 20
-
-Should_Spawn_Seat_Capsules true
-
-IgnitionAudioClip Sounds/CarIgnition.mp3

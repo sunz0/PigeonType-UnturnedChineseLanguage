@@ -3,8 +3,6 @@ Page {0} of {1}
 Search_Field_Hint Item Name Filter
 Search Search
 Search_Tooltip Search
-Advanced_Options_Tooltip Advanced Options
-Search_Descriptions_Label Search Descriptions
 Filter_Item_Target Picking target for: {0}
 Cancel_Filter Cancel
 Cancel_Filter_Tooltip Stop item operation.
@@ -12,15 +10,6 @@ Left_Tooltip Left
 Right_Tooltip Right
 Swap_Tooltip Swap
 Refresh_Tooltip Refresh
-
-Sort_Mode_Date Date
-Sort_Mode_Rarity Rarity
-Sort_Mode_Name Name A-Z
-Sort_Mode_Type Type A-Z
-Sort_Mode_Label Sort Mode
-Sort_Mode_Tooltip Method to organize inventory.
-Reverse_Sort_Order_Label Reverse Order
-Filter_Equipped_Label Only Equipped
 
 Origin_Drop You found an item!
 
@@ -33,8 +22,6 @@ Mystery_Tooltip ???
 
 Itemstore Stockpile
 Itemstore_Tooltip Click here to view the stockpile.
-Itemstore_Sale SALE
-Itemstore_Region_Box_Disabled Note: boxes and keys are unavailable in {0} region.
 Crafting Crafting
 Crafting_Tooltip Click here to view available blueprints.
 Backpack Backpack
@@ -52,11 +39,8 @@ Craft_Stat_Tracker_Total_Kills <color=#ff7f00>Total Kills Counter</color>
 Craft_Stat_Tracker_Player_Kills <color=#ff0000>Player Kills Counter</color>
 Craft_Ragdoll_Effect_Zero_Kelvin <color=#00ffff>Zero Kelvin Weapon Kit</color>
 Craft_Mythical_Skin <color=mythical>Random Mythical Skin</color>
-Craft_Stat_Tracker_Removal_Tool <color=#909090>Kill Counter Removal Tool</color>
-Craft_Ragdoll_Effect_Removal_Tool <color=#909090>Ragdoll Effect Removal Tool</color>
 
 Origin_Craft You crafted an item!
-Origin_Purchase Purchase successful!
 
 No_Items Waiting for Steam inventory response...
 

@@ -22,10 +22,3 @@ Trunk_Storage_X 5
 Trunk_Storage_Y 3
 
 Explosion 20
-
-Size2_Z 3.5
-Shared_Skin_Name Sedan
-Shared_Skin_Lookup_ID 25
-
-IgnitionAudioClip Sounds/CarIgnition.mp3
-HornAudioClip Sounds/CarHorn_02.mp3

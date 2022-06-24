@@ -32,6 +32,4 @@ Blueprint_0_Level 3
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
 
-Fuel_Capacity 2500
-
-PlacementAudioClip Sounds/MetalPlacement.mp3
+Fuel_Capacity 500

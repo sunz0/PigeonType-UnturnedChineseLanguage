@@ -4,7 +4,6 @@ ID 155
 
 Speed_Min -6
 Speed_Max 16.5
-Wheel_Collider_Mass_Override 5
 
 Steer_Min 14
 Steer_Max 28
@@ -25,6 +24,3 @@ Trunk_Storage_Y 3
 Explosion 20
 
 Shared_Skin_Lookup_ID 149
-
-IgnitionAudioClip Sounds/CarIgnition.mp3
-HornAudioClip Sounds/CarHorn_02.mp3

@@ -10,8 +10,6 @@ Unwrap_Tooltip Discover which random gift is inside!
 Origin_Unbox You unboxed an item!
 Origin_Unwrap You unwrapped an item!
 
-Region_Disabled Unboxing is disabled in {0} region.
-
 Overlay Steam overlay needs to be enabled.
 Exchange_Timed_Out The Steam item servers are not responding. Your items will be in your inventory when refreshed.
 Exchange_Missing_Assets Unknown asset. Your items will be in your inventory after updating. Sorry for this unusual scenario!

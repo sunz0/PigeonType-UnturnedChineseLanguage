@@ -19,8 +19,4 @@ Health_Min 250
 Health_Max 300
 Health 350
 
-Wheel_Collider_Mass_Override 5
-
 Explosion 20
-
-IgnitionAudioClip Sounds/CarIgnition.mp3

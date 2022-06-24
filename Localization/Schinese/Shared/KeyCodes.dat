@@ -3,16 +3,16 @@
 // For example "Backslash обра́тный слэш" to translate the "\" key.
 //
 
-Alpha1 1
-Alpha2 2
-Alpha3 3
-Alpha4 4
-Alpha5 5
-Alpha6 6
-Alpha7 7
-Alpha8 8
-Alpha9 9
-Alpha0 0
+Alpha0 #1
+Alpha1 #2
+Alpha2 #3
+Alpha3 #4
+Alpha4 #5
+Alpha5 #6
+Alpha6 #7
+Alpha7 #8
+Alpha8 #9
+Alpha9 #0
 
 LeftParen Left Parenthesis
 RightParen Right Parenthesis
@@ -20,16 +20,16 @@ LeftBracket Left Bracket
 RightBracket Right Bracket
 BackQuote Tilde
 
-Keypad1 Keypad 1
-Keypad2 Keypad 2
-Keypad3 Keypad 3
-Keypad4 Keypad 4
-Keypad5 Keypad 5
-Keypad6 Keypad 6
-Keypad7 Keypad 7
-Keypad8 Keypad 8
-Keypad9 Keypad 9
-Keypad0 Keypad 0
+Keypad0 Keypad #1
+Keypad1 Keypad #2
+Keypad2 Keypad #3
+Keypad3 Keypad #4
+Keypad4 Keypad #5
+Keypad5 Keypad #6
+Keypad6 Keypad #7
+Keypad7 Keypad #8
+Keypad8 Keypad #9
+Keypad9 Keypad #0
 
 UpArrow Up Arrow
 LeftArrow Left Arrow
@@ -54,9 +54,9 @@ LeftApple Left Apple
 LeftWindows Left Windows
 RightWindows Right Windows
 
-Mouse0 Mouse 1
-Mouse1 Mouse 2
-Mouse2 Mouse 3
-Mouse3 Mouse 4
-Mouse4 Mouse 5
-Mouse5 Mouse 6
+Mouse0 Mouse #1
+Mouse1 Mouse #2
+Mouse2 Mouse #3
+Mouse3 Mouse #4
+Mouse4 Mouse #5
+Mouse5 Mouse #6

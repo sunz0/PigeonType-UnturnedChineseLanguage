@@ -1,4 +1,4 @@
-Sensitivity_Field_Label Mouse Aim Sensitivity (Degrees per Pixel)
+Sensitivity_Field_Label Sensitivity Multiplier
 Invert_Toggle_Label Invert Look
 Invert_Flight_Toggle_Label Invert Flight
 Aiming_Label Aiming
@@ -6,19 +6,6 @@ Crouching_Label Crouching
 Proning_Label Proning
 Sprinting_Label Sprinting
 Leaning_Label Leaning
-
-SensitivityScalingMode_Label Sensitivity Scaling Mode
-SensitivityScalingMode_ProjectionRatio Focal Length
-SensitivityScalingMode_ProjectionRatio_Tooltip Scale by ratio between active FOV projected onto screen and configured FOV projected onto screen.
-SensitivityScalingMode_ZoomFactor Zoom Factor
-SensitivityScalingMode_ZoomFactor_Tooltip Multiply sensitivity according to scope/optic zoom. For example an 8x zoom has 1/8th sensitivity.
-SensitivityScalingMode_Legacy Legacy
-SensitivityScalingMode_Legacy_Tooltip Preserve how sensitivity felt prior to 3.22.8.0 update.
-SensitivityScalingMode_None Disabled
-SensitivityScalingMode_None_Tooltip Sensitivity is unmodified while aiming. Not recommended.
-
-ProjectionRatioCoefficient_Label Projection Ratio Coefficient
-ProjectionRatioCoefficient_Tooltip Multiplier for "Focal Length" sensitivity scaling.
 
 Hold Hold
 Toggle Toggle
@@ -32,7 +19,6 @@ Layout_5 Interface
 Layout_6 Vehicle
 Layout_7 Editor
 Layout_8 Mods/Plugins
-Layout_9 Hotbar
 
 Key_0_Button Left [{0}]
 Key_1_Button Right [{0}]
@@ -98,14 +84,3 @@ Key_60_Button Code Hotkey #2 [{0}]
 Key_61_Button Code Hotkey #3 [{0}]
 Key_62_Button Code Hotkey #4 [{0}]
 Key_63_Button Code Hotkey #5 [{0}]
-Key_64_Button Item #1 [{0}]
-Key_65_Button Item #2 [{0}]
-Key_66_Button Item #3 [{0}]
-Key_67_Button Item #4 [{0}]
-Key_68_Button Item #5 [{0}]
-Key_69_Button Item #6 [{0}]
-Key_70_Button Item #7 [{0}]
-Key_71_Button Item #8 [{0}]
-Key_72_Button Item #9 [{0}]
-Key_73_Button Item #10 [{0}]
-Key_74_Button Release Cursor [{0}]

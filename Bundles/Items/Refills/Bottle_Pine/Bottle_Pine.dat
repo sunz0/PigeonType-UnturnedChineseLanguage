@@ -7,7 +7,10 @@ Size_X 2
 Size_Y 2
 Size_Z 0.35
 
-Clean_Water 25
+Quality_Min 100
+Quality_Max 100
+
+Water 25
 
 Blueprints 2
 Blueprint_0_Type Tool
@@ -23,4 +26,3 @@ Blueprint_1_Type Repair
 Blueprint_1_Supply_0_ID 392
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Build 27
-ConsumeAudioClip Sounds/DrinkSwallow.mp3

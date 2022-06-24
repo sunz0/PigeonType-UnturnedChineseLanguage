@@ -50,5 +50,3 @@ Blueprint_1_Supply_0_ID 135
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
-AttackAudioClip Sounds/MeleeAttack_01.mp3
-ImpactAudioDef Effects/Physics/MeleeImpact/Golf/MeleeImpact_Golf.asset

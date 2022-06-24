@@ -23,7 +23,6 @@ Skin Skin
 Map_Type_Survival Survival
 Map_Type_Horde Horde
 Map_Type_Arena Arena
-Map_Type_Custom Custom Game
 
 Item_Type_Backpack Backpack
 Item_Type_Barrel Barrel
@@ -113,7 +112,6 @@ Object_Type_Animal Animal
 Public Public
 Friends_Only Friends Only
 Private Private
-Unlisted Unlisted
 
 Community Ready-To-Use
 Review Curated
@@ -133,7 +131,6 @@ PathFieldNotification_MissingFolder Specified directory does not exist.
 PathFieldNotification_Map Directory should only contain your map's folder.
 PathFieldNotification_Localization Directory should contain Editor, Menu, Player, etc folders.
 PathFieldNotification_Bundle Directory should contain at least one subfolder.
-PathFieldNotification_NoWritePermission Access permission denied.
 
 PreviewFieldNotification_Empty Cannot be empty.
 PreviewFieldNotification_MissingFile Specified file does not exist.

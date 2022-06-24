@@ -1,36 +1,32 @@
-Mode_Paint Paint [{0}]
-Mode_Auto Auto [{0}]
-Mode_Smooth Smooth [{0}]
-Mode_Cut Cut [{0}]
-Mode_Label Mode
+OvergrowthSliderLabelText Overgrowth
+ChanceSliderLabelText Chance
+SteepnessFieldLabelText Steepness
+HeightValueLabelText Height
+TransitionSliderLabelText Transition
+Grassy_0_ToggleLabelText Grassy #1
+Grassy_1_ToggleLabelText Grassy #2
+Flowery_0_ToggleLabelText Flowery #1
+Flowery_1_ToggleLabelText Flowery #2
+RockyToggleLabelText Rocky
+RoadToggleLabelText Road
+SnowyToggleLabelText Snowy
+FoundationToggleLabelText Foundation
+ManualToggleLabelText Manually Painted
+SteepnessToggleLabelText Ignore Steepness
+HeightToggleLabelText Ignore Height
+FootprintToggleLabelText Ignore Footprint
 
-BrushRadius Brush Radius [{0}]
-BrushFalloff Brush Falloff [{0}]
-BrushStrength Brush Strength [{0}]
+BakeGlobalMaterialsButtonText Bake High Quality
+BakeGlobalMaterialsButtonTooltip In-Game Alphamap
 
-SmoothMethod_BrushAverage Brush Average
-SmoothMethod_PixelAverage Pixel Average
-SmoothMethod_Label Smooth Method
+BakeLocalMaterialsButtonText Bake Low Quality
+BakeLocalMaterialsButtonTooltip Editor Alphamap
 
-AutoRayLength Ray Length
-AutoRayRadius Ray Radius
-UseAutoFoundation Use Auto Foundation
+SelectionBoxLabelText Selection
+SizeSliderLabelText Size
+NoiseSliderLabelText Noise
+PreviewToggleLabelText Preview Baked
 
-MaxAngleRange Max Angle Range
-MinAngleRange Min Angle Range
-UseAutoSlope Use Auto Slope
-
-WeightTarget Weight Target [{0}]
-
-PreviewMethod_BrushAlpha Brush Alpha
-PreviewMethod_Weight Weight
-PreviewMethod_Label Preview Method
-
-MaxPreviewSamples Max Preview Samples
-
-SelectedAsset Selected Asset [{0}]
-OnlyUsedMaterials Only In-use Materials
-SearchHint Name Filter
-
-Hint_Paint Remove selected: [{0}] Use weight target: [{1}] Sample material under cursor: [{2}]
-Hint_Cut Repair: [{0}]
+Map2ButtonText1 Primary
+Map2ButtonText2 Secondary
+Map2ButtonTooltip Landscape

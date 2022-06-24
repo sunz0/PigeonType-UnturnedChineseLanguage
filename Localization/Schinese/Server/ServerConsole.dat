@@ -5,7 +5,6 @@ PlayerDisconnectedText Disconnecting: PlayerID: {0} Name: {1} Character: {2}
 
 Dismiss_RPC_Credits Kicking for packet spam: PlayerID: {0} Name: {1} Character: {2}
 Dismiss_Timeout Kicking for inactivity: PlayerID: {0} Name: {1} Character: {2}
-Dismiss_Ping Kicking because ping ({0}) exceeds limit ({1}): PlayerID: {2} Name: {3} Character: {4}
 
 Global [World] {0} [{1}]: "{2}"
 Local [Area] {0} [{1}]: "{2}"
@@ -71,14 +70,3 @@ Map_Missing Failed to find map {0}, defaulting to {1}!
 Overlay Steam overlay needs to be enabled.
 
 Shutdown Shutdown in: {0}
-
-HUD_FPS {0}fps
-HUD_Ping {0}ping
-HUD_DC 服务器 {0}秒 没有响应，将在 {1}秒 后自动断开连接
-HUD_Freecam_Orbiting Orbiting
-HUD_Freecam_Tracking Tracking
-HUD_Freecam_Locking Locking
-HUD_Freecam_Focusing Focusing
-HUD_Freecam_Smoothing Smoothing
-HUD_Freecam_Building Building
-HUD_Freecam_Spectating Spectating

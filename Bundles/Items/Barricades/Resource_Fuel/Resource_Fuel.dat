@@ -15,7 +15,7 @@ Radius 0.75
 Offset 1
 
 Source Fuel
-Resource 10000
+Resource 2500
 
 Explosion 36
 
@@ -34,5 +34,3 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 2
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
-
-PlacementAudioClip Sounds/MetalPlacement.mp3

@@ -1,18 +1,16 @@
 BrowseButtonText Browse
-BrowseButtonTooltip View Community Creations
+BrowseButtonTooltip Browse
 SubmitButtonText Submit
-SubmitButtonTooltip Upload Files
+SubmitButtonTooltip Submit
 EditorButtonText Editor
-EditorButtonTooltip Level Editor
+EditorButtonTooltip Editor
 ErrorButtonText Error Logs
-ErrorButtonTooltip Auto-Detected Problems
+ErrorButtonTooltip Error Logs
 LocalizationButtonText Localization
 LocalizationButtonTooltip Compare Differences
 SpawnsButtonText Spawn Tables
 SpawnsButtonTooltip Debug Drop Rates
 SubscriptionsButtonText Manage
 SubscriptionsButtonTooltip Manage Subscribed Files
-DocsButtonText Docs
-DocsButtonTooltip Read Developer Documentation
 
 Overlay Steam overlay needs to be enabled.

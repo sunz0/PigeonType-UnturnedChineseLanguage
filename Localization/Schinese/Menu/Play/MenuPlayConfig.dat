@@ -15,7 +15,6 @@ Unlocked_After_Seconds_In_Safezone Unlocked After Seconds in Safezone
 Decay_Time Decay Time
 Damage_Multiplier Damage Multiplier
 Armor_Multiplier Armor Multiplier
-NonHeadshot_Armor_Multiplier Non-Headshot Armor Multiplier
 Child_Explosion_Armor_Multiplier Child Explosion Armor Multiplier
 Backstab_Multiplier Backstab Multiplier
 Armor_Lowtier_Multiplier Armor Low-Tier Multiplier
@@ -54,13 +53,9 @@ Boss_Electric_Chance Electric Boss Chance [0-0.5]
 Boss_Wind_Chance Wind Boss Chance [0-0.5]
 Boss_Fire_Chance Fire Boss Chance [0-0.5]
 Spirit_Chance Spirit Chance [0-0.5]
-DL_Red_Volatile_Chance Dying Light Red Volatile Chance
-DL_Blue_Volatile_Chance Dying Light Blue Volatile Chance
-Boss_Elver_Stomper_Chance Elver Stomper Boss Chance
 Respawn_Day_Time Respawn Day Time
 Respawn_Night_Time Respawn Night Time
 Respawn_Beacon_Time Respawn Beacon Time
-Quest_Boss_Respawn_Interval Quest Boss Respawn Interval
 Beacon_Experience_Multiplier Beacon Experience Multiplier
 Full_Moon_Experience_Multiplier Full Moon Experience Multiplier
 Min_Drops Min Drops
@@ -127,7 +122,6 @@ Can_Stop_Bleeding Can Stop Bleeding
 Spawn_With_Max_Skills Spawn With Max Skills
 Spawn_With_Stamina_Skills Spawn With Stamina Skills
 Allow_Instakill_Headshots Allow Instakill Headshots
-Allow_Per_Character_Saves Allow Per-Character Saves
 
 Rain_Frequency_Min Min Rain Frequency
 Rain_Frequency_Max Max Rain Frequency
@@ -138,9 +132,6 @@ Snow_Frequency_Min Min Snow Frequency
 Snow_Frequency_Max Max Snow Frequency
 Snow_Duration_Min Min Snow Duration
 Snow_Duration_Max Max Snow Duration
-
-Weather_Frequency_Multiplier Weather Frequency Multiplier
-Weather_Duration_Multiplier Weather Duration Multiplier
 
 Binary_State_Reset_Multiplier Binary State Reset Time Multiplier
 Fuel_Reset_Multiplier Fuel Respawn Time Multiplier
@@ -184,13 +175,10 @@ Satellite Satellite Available
 Compass Compass Available
 Group_Map Show Group On Map
 Group_HUD Show Group On HUD
-Group_Player_List Show Groups In Player List
 Allow_Static_Groups Allow Static Groups
 Allow_Dynamic_Groups Allow Dynamic Groups
 Allow_Shoulder_Camera Allow Shoulder Camera
 Can_Suicide Can Suicide
-Friendly_Fire Friendly Fire
-Bypass_Buildable_Mobility Sentry Guns & Beds On Vehicles
 
 Timer_Exit Exit Timer
 Timer_Respawn Respawn Timer
@@ -200,8 +188,3 @@ Max_Group_Members Max Group Members
 
 Default Restore Defaults
 Default_Tooltip Use factory configuration.
-
-Allow_Item_Placement_On_Vehicle Allow Item Placement On Vehicle
-Allow_Trap_Placement_On_Vehicle Allow Trap Placement On Vehicle
-Max_Item_Distance_From_Hull Max Item Distance From Hull
-Max_Trap_Distance_From_Hull Max Trap Distance From Hull

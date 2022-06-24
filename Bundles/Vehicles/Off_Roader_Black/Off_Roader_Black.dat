@@ -29,6 +29,3 @@ SqrDelta 1.6
 Size2_Z 3
 Shared_Skin_Name Off_Roader
 Shared_Skin_Lookup_ID 1
-
-IgnitionAudioClip Sounds/CarIgnition.mp3
-HornAudioClip Sounds/CarHorn_04.mp3

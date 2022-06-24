@@ -5,6 +5,4 @@ ID 739
 Interactability Binary_State
 Interactability_Delay 3.5
 Interactability_Reset 60
-
-// Disables player interacting with F key.
 Interactability_Remote

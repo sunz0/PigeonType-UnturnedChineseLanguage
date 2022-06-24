@@ -29,8 +29,3 @@ Trunk_Storage_X 3
 Trunk_Storage_Y 2
 
 Explosion 20
-
-Should_Spawn_Seat_Capsules true
-
-IgnitionAudioClip Sounds/CarIgnition.mp3
-HornAudioClip Sounds/CarHorn_01.mp3

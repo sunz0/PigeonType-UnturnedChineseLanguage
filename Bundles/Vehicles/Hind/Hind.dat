@@ -36,5 +36,3 @@ Turret_0_Yaw_Min -135
 Turret_0_Yaw_Max 135
 Turret_0_Pitch_Min 85
 Turret_0_Pitch_Max 180
-
-IgnitionAudioClip Sounds/HelicopterIgnition.mp3

@@ -1,47 +1,47 @@
-Speciality_0_Tooltip 攻击类
-Speciality_1_Tooltip 防御类
+Speciality_0_Tooltip Offense
+Speciality_1_Tooltip Defense
 Speciality_2_Tooltip Support
 
-Speciality_0_Skill_0 力大无穷
-Speciality_0_Skill_0_Tooltip 拳头和近战武器的攻击力增高。
-Speciality_0_Skill_0_Level_1 +7% 拳击/近战武器 伤害
-Speciality_0_Skill_0_Level_2 +14% 拳击/近战武器 伤害
-Speciality_0_Skill_0_Level_3 +21% 拳击/近战武器 伤害
-Speciality_0_Skill_0_Level_4 +29% 拳击/近战武器 伤害
-Speciality_0_Skill_0_Level_5 +36% 拳击/近战武器 伤害
-Speciality_0_Skill_0_Level_6 +43% 拳击/近战武器 伤害
-Speciality_0_Skill_0_Level_7 +50% 拳击/近战武器 伤害
-Speciality_0_Skill_1 神射手
-Speciality_0_Skill_1_Tooltip 稳定后坐力并提高精准度。
-Speciality_0_Skill_1_Level_1 +7% 后坐力/精准度
-Speciality_0_Skill_1_Level_2 +14% 后坐力/精准度
-Speciality_0_Skill_1_Level_3 +21% 后坐力/精准度
-Speciality_0_Skill_1_Level_4 +29% 后坐力/精准度
-Speciality_0_Skill_1_Level_5 +36% 后坐力/精准度
-Speciality_0_Skill_1_Level_6 +43% 后坐力/精准度
-Speciality_0_Skill_1_Level_7 +50% 后坐力/精准度
-Speciality_0_Skill_2 灵敏
-Speciality_0_Skill_2_Tooltip 更快的装填与射击速通
-Speciality_0_Skill_2_Level_1 +10% 装填/射击速度
-Speciality_0_Skill_2_Level_2 +20% 装填/射击速度
-Speciality_0_Skill_2_Level_3 +30% 装填/射击速度
-Speciality_0_Skill_2_Level_4 +40% 装填/射击速度
-Speciality_0_Skill_2_Level_5 +50% 装填/射击速度
-Speciality_0_Skill_3 有氧运动
-Speciality_0_Skill_3_Tooltip 更快恢复耐力值与氧气值
-Speciality_0_Skill_3_Level_1 +10% 恢复速度
-Speciality_0_Skill_3_Level_2 +20% 恢复速度
-Speciality_0_Skill_3_Level_3 +30% 恢复速度
-Speciality_0_Skill_3_Level_4 +40% 恢复速度
-Speciality_0_Skill_3_Level_5 +50% 恢复速度
-Speciality_0_Skill_4 锻炼
-Speciality_0_Skill_4_Tooltip 减少跑步时使用的耐力值，增加行走速度
-Speciality_0_Skill_4_Level_1 +5% 行走速度, +50% 持久耐力值
-Speciality_0_Skill_4_Level_2 +10% 行走速度, +100% 持久耐力值
-Speciality_0_Skill_4_Level_3 +15% 行走速度, +150% 持久耐力值
-Speciality_0_Skill_4_Level_4 +20% 行走速度, +200% 持久耐力值
-Speciality_0_Skill_4_Level_5 +25% 行走速度, +250% 持久耐力值
-Speciality_0_Skill_5 潜水
+Speciality_0_Skill_0 Overkill
+Speciality_0_Skill_0_Tooltip Punch and melee with greater force.
+Speciality_0_Skill_0_Level_1 +7% punch/melee damage
+Speciality_0_Skill_0_Level_2 +14% punch/melee damage
+Speciality_0_Skill_0_Level_3 +21% punch/melee damage
+Speciality_0_Skill_0_Level_4 +29% punch/melee damage
+Speciality_0_Skill_0_Level_5 +36% punch/melee damage
+Speciality_0_Skill_0_Level_6 +43% punch/melee damage
+Speciality_0_Skill_0_Level_7 +50% punch/melee damage
+Speciality_0_Skill_1 Sharpshooter
+Speciality_0_Skill_1_Tooltip Stabilizes recoil and increases accuracy.
+Speciality_0_Skill_1_Level_1 +7% stability/accuracy
+Speciality_0_Skill_1_Level_2 +14% stability/accuracy
+Speciality_0_Skill_1_Level_3 +21% stability/accuracy
+Speciality_0_Skill_1_Level_4 +29% stability/accuracy
+Speciality_0_Skill_1_Level_5 +36% stability/accuracy
+Speciality_0_Skill_1_Level_6 +43% stability/accuracy
+Speciality_0_Skill_1_Level_7 +50% stability/accuracy
+Speciality_0_Skill_2 Dexterity
+Speciality_0_Skill_2_Tooltip Quicker reloading and hammering.
+Speciality_0_Skill_2_Level_1 +10% reload/hammer speed
+Speciality_0_Skill_2_Level_2 +20% reload/hammer speed
+Speciality_0_Skill_2_Level_3 +30% reload/hammer speed
+Speciality_0_Skill_2_Level_4 +40% reload/hammer speed
+Speciality_0_Skill_2_Level_5 +50% reload/hammer speed
+Speciality_0_Skill_3 Cardio
+Speciality_0_Skill_3_Tooltip Quicker stamina and oxygen regeneration.
+Speciality_0_Skill_3_Level_1 +10% regeneration speed
+Speciality_0_Skill_3_Level_2 +20% regeneration speed
+Speciality_0_Skill_3_Level_3 +30% regeneration speed
+Speciality_0_Skill_3_Level_4 +40% regeneration speed
+Speciality_0_Skill_3_Level_5 +50% regeneration speed
+Speciality_0_Skill_4 Exercise
+Speciality_0_Skill_4_Tooltip Use less stamina and move faster.
+Speciality_0_Skill_4_Level_1 +5% move speed, +50% stamina endurance
+Speciality_0_Skill_4_Level_2 +10% move speed, +100% stamina endurance
+Speciality_0_Skill_4_Level_3 +15% move speed, +150% stamina endurance
+Speciality_0_Skill_4_Level_4 +20% move speed, +200% stamina endurance
+Speciality_0_Skill_4_Level_5 +25% move speed, +250% stamina endurance
+Speciality_0_Skill_5 Diving
 Speciality_0_Skill_5_Tooltip Use less oxygen, swim faster and reduce scope sway.
 Speciality_0_Skill_5_Level_1 +5% swim speed, +50% oxygen endurance, +10% scope stability
 Speciality_0_Skill_5_Level_2 +10% swim speed, +100% oxygen endurance, +20% scope stability
@@ -179,20 +179,20 @@ Boost_4_Tooltip Throw objects further.
 Boost_4_Bonus +100% thrown velocity
 
 Skill {0} [{1}]
-Bonus_Current 当前等级: {0} 
-Bonus_Next 下一个等级: {0} 
-Cost 升级需要: {0} 经验值
-Full 满级
-Experience 经验值: {0}
+Bonus_Current Current Level: {0} 
+Bonus_Next Next Level: {0} 
+Cost Upgrade Cost: {0}
+Full Maximum Level
+Experience Experience: {0}
 
 Level_0 -
-Level_1 第一级
-Level_2 第二级
-Level_3 第三级
-Level_4 第四级
-Level_5 第五级
-Level_6 第六级
-Level_7 第七级
-Level_8 第八级
-Level_9 第九级
-Level_10 第十级
+Level_1 I
+Level_2 II
+Level_3 III
+Level_4 IV
+Level_5 V
+Level_6 VI
+Level_7 VII
+Level_8 VIII
+Level_9 IX
+Level_10 X

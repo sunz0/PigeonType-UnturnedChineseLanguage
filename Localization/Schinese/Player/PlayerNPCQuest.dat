@@ -4,21 +4,12 @@ Rewards Rewards:
 Condition_Experience {0}/{1} Experience
 Condition_Reputation {0}/{1} Reputation
 Condition_Item {0}/{1} {2}
-Condition_Currency {0} Currency
-
-Condition_AnimalKills {0}/{1} Animal Kills
-Condition_HordeKills {0}/{1} Horde Kills
-Condition_ObjectKills {0}/{1} Object Kills
-Condition_PlayerKills {0}/{1} Player Kills
-Condition_TreeKills {0}/{1} {2}
-Condition_ZombieKills {0}/{1} Zombie Kills
 
 Reward_Experience {0} Experience
 Reward_Reputation {0} Reputation
 Reward_Item {1} x{0}
 Reward_Item_Random Random Item x{0}
 Reward_Vehicle {0} x1
-Reward_Currency {0} Currency
 
 Accept Accept
 Accept_Tooltip Take Quest

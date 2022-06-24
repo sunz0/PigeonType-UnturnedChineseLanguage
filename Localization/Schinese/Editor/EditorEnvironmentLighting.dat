@@ -7,8 +7,11 @@ Rain_Freq_Label Rain Frequency Multiplier
 Rain_Dur_Label Rain Duration Multiplier
 Snow_Freq_Label Snow Frequency Multiplier
 Snow_Dur_Label Snow Duration Multiplier
-WeatherPreview_Label Preview Weather
+Storm Storm
+Storm_Tooltip Trigger storm on/off
 Rain_Toggle_Label Can Rain
+Blizzard Blizzard
+Blizzard_Tooltip Trigger blizzard on/off
 Snow_Toggle_Label Can Snow
 MoonSliderLabelText Moon
 TimeSliderLabelText Time

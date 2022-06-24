@@ -1,30 +1,14 @@
-MaxPreviewSamples Max Preview Samples
+DensitySliderLabelText Density
+ChanceSliderLabelText Chance
+Grass_0_ToggleLabelText Grass #1
+Grass_1_ToggleLabelText Grass #2
+Flower_0_ToggleLabelText Flower #1
+Flower_1_ToggleLabelText Flower #2
+RockToggleLabelText Rock
+RoadToggleLabelText Road
+SnowToggleLabelText Snow
 
-DensityTarget Density Target
-BrushStrength Brush Strength [{0}]
-BrushFalloff Brush Falloff [{0}]
-BrushRadius Brush Radius [{0}]
+SelectionBoxLabelText Selection
 
-Mode_Paint Paint [{0}]
-Mode_Exact Exact [{0}]
-Mode_Bake Bake [{0}]
-Mode_Label Mode
-
-Bake_Cancel Bake Cancel
-Bake_Local Bake Nearby
-Bake_Global Bake Global
-Bake_Clear Bake Clear
-Bake_ApplyScale Bake Apply Scale
-Bake_Objects Bake Objects
-Bake_Resources Bake Resources
-Bake_InstancedMeshes Bake Instanced Meshes
-
-SelectedAsset Selected Asset [{0}]
-
-SearchType_Assets Assets
-SearchType_Collections Collections
-SearchType_Label Search Type
-
-SearchHint Name Filter
-
-Hint_Paint Remove: [{0}] Remove selected: [{1}] Remove baked: [{2}]
+BakeDetailsButtonText Bake
+BakeDetailsButtonTooltip Generate Detailmap

@@ -9,7 +9,6 @@ Size_X 3
 Size_Y 2
 Size_Z 0.6
 Size2_Z 0.8
-Use_Auto_Icon_Measurements false
 
 Range 2.25
 Strength 1.5
@@ -53,4 +52,3 @@ Blueprint_1_Supply_0_ID 1174
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
-AttackAudioClip Sounds/MeleeAttack_02.mp3
