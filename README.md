@@ -129,6 +129,7 @@ Description Belgian assault rifle chambered in Military ammunition.
 - 一个小鸽子(https://github.com/YigeXiaogeziAwa) | Github
 - ruanwei8110 | 场外援助
 - 渣白 | 场外援助
+- ilunp(https://github.com/ilunp) | Github
 
 # PigeonTypeZhLangInstaller - 鸽式未转变者汉化全自动安装器
 ### 一、制作原因

@@ -1,6 +1,6 @@
 "Metadata"
 {
-	"Language" "Chinaese"
+	"Language" "chinese"
 	"Namespace" "SDG"
 }
 "Translation"
@@ -13,7 +13,7 @@
 			{
 				"Name"
 				{
-					"Text" "Asset GUID"
+					"Text" "资产 GUID"
 					"Version" "1"
 				}
 			}
@@ -24,7 +24,7 @@
 			{
 				"Name"
 				{
-					"Text" "Content Name"
+					"Text" "内容名字"
 					"Version" "1"
 				}
 			}
@@ -32,7 +32,7 @@
 			{
 				"Name"
 				{
-					"Text" "Content Path"
+					"Text" "内容路径"
 					"Version" "1"
 				}
 			}
@@ -69,7 +69,7 @@
 				{
 					"Name"
 					{
-						"Text" "Minimum Ammo"
+						"Text" "弹药数量 (Min)"
 						"Version" "1"
 					}
 				}
@@ -77,7 +77,7 @@
 				{
 					"Name"
 					{
-						"Text" "Maximum Ammo"
+						"Text" "弹药数量 (Max)"
 						"Version" "1"
 					}
 				}
@@ -91,7 +91,7 @@
 				{
 					"Name"
 					{
-						"Text" "Texture"
+						"Text" "材质"
 						"Version" "1"
 					}
 				}
@@ -99,7 +99,7 @@
 				{
 					"Name"
 					{
-						"Text" "Mask"
+						"Text" "遮罩"
 						"Version" "1"
 					}
 				}
@@ -107,53 +107,53 @@
 				{
 					"Name"
 					{
-						"Text" "Physics Material"
+						"Text" "实体物理"
 						"Version" "1"
 					}
 				}
 				"Auto_Ray_Mask"
 				{
-					"Text" "Ray Mask"
+					"Text" "射线遮罩"
 					"Version" "2"
 				}
 				"Auto_Ray_Radius"
 				{
-					"Text" "Ray Radius"
+					"Text" "射线半径"
 					"Version" "2"
 				}
 				"Auto_Max_Angle_End"
 				{
-					"Text" "Max Angle End"
+					"Text" "终止角度 (Max)"
 					"Version" "2"
 				}
 				"Auto_Ray_Length"
 				{
-					"Text" "Ray Length"
+					"Text" "射线时长"
 					"Version" "1"
 				}
 				"Use_Auto_Foundation"
 				{
-					"Text" "Use Auto Foundation"
+					"Text" "使用自动基础值"
 					"Version" "1"
 				}
 				"Auto_Max_Angle_Begin"
 				{
-					"Text" "Max Angle Begin"
+					"Text" "起始角度 (Max)"
 					"Version" "1"
 				}
 				"Auto_Min_Angle_End"
 				{
-					"Text" "Min Angle End"
+					"Text" "终止角度 (Min)"
 					"Version" "1"
 				}
 				"Auto_Min_Angle_Begin"
 				{
-					"Text" "Min Angle Begin"
+					"Text" "起始角度 (Min)"
 					"Version" "1"
 				}
 				"Use_Auto_Slope"
 				{
-					"Text" "Use Auto Slope"
+					"Text" "使用自动倾斜"
 					"Version" "1"
 				}
 			}
@@ -163,7 +163,7 @@
 				{
 					"Name"
 					{
-						"Text" "Materials"
+						"Text" "实体"
 						"Version" "1"
 					}
 				}
@@ -172,7 +172,7 @@
 			{
 				"Name"
 				{
-					"Text" "Foliage"
+					"Text" "植被"
 					"Version" "1"
 				}
 			}
@@ -183,7 +183,7 @@
 			{
 				"Name"
 				{
-					"Text" "Title"
+					"Text" "标题"
 					"Version" "1"
 				}
 			}
@@ -191,7 +191,7 @@
 			{
 				"Name"
 				{
-					"Text" "Song"
+					"Text" "歌名"
 					"Version" "1"
 				}
 			}
@@ -203,52 +203,52 @@
 		{
 			"Heightmap_Brush_Radius_Var"
 			{
-				"Text" "Set Heightmap_Brush_Radius to: {0}"
+				"Text" "设置 (Heightmap_Brush_Radius) 变量: {0}"
 				"Version" "1"
 			}
 			"Heightmap_Brush_Falloff_Var"
 			{
-				"Text" "Set Heightmap_Brush_Falloff to: {0}"
+				"Text" "设置 (Heightmap_Brush_Falloff) 变量: {0}"
 				"Version" "1"
 			}
 			"Heightmap_Brush_Strength_Var"
 			{
-				"Text" "Set Heightmap_Brush_Strength to: {0}"
+				"Text" "设置 (Heightmap_Brush_Strength) 变量: {0}"
 				"Version" "1"
 			}
 			"Heightmap_Flatten_Target_Var"
 			{
-				"Text" "Set Heightmap_Flatten_Target to: {0}"
+				"Text" "设置 (Heightmap_Flatten_Target) 变量: {0}"
 				"Version" "1"
 			}
 			"Splatmap_Brush_Radius_Var"
 			{
-				"Text" "Set Splatmap_Brush_Radius to: {0}"
+				"Text" "设置 (Splatmap_Brush_Radius) 变量: {0}"
 				"Version" "1"
 			}
 			"Splatmap_Brush_Falloff_Var"
 			{
-				"Text" "Set Splatmap_Brush_Falloff to: {0}"
+				"Text" "设置 (Splatmap_Brush_Falloff) 变量: {0}"
 				"Version" "1"
 			}
 			"Splatmap_Brush_Strength_Var"
 			{
-				"Text" "Set Splatmap_Brush_Strength to: {0}"
+				"Text" "设置 (Splatmap_Brush_Strength) 变量: {0}"
 				"Version" "1"
 			}
 			"Splatmap_Use_Weight_Target_Var"
 			{
-				"Text" "Set Splatmap_Use_Weight_Target to: {0}"
+				"Text" "设置 (Splatmap_Use_Weight_Target) 变量: {0}"
 				"Version" "1"
 			}
 			"Splatmap_Weight_Target_Var"
 			{
-				"Text" "Set Splatmap_Weight_Target to: {0}"
+				"Text" "设置 (Splatmap_Weight_Target) 变量: {0}"
 				"Version" "1"
 			}
 			"Splatmap_Layer_Target_Var"
 			{
-				"Text" "Set Splatmap_Layer_Target to: {0}"
+				"Text" "设置 (Splatmap_Layer_Target) 变量: {0}"
 				"Version" "1"
 			}
 			"Heightmap"
@@ -257,33 +257,33 @@
 				{
 					"Radius"
 					{
-						"Text" "Radius"
+						"Text" "半径"
 						"Version" "1"
 					}
 					"Falloff"
 					{
-						"Text" "Falloff"
+						"Text" "减弱"
 						"Version" "1"
 					}
 					"Strength"
 					{
-						"Text" "Strength"
+						"Text" "增强"
 						"Version" "1"
 					}
 				}
 				"Flatten_Target"
 				{
-					"Text" "Flatten Target"
+					"Text" "平整目标"
 					"Version" "1"
 				}
 				"Max_Preview_Samples"
 				{
-					"Text" "Max Preview Samples"
+					"Text" "预览样本 (Max)"
 					"Version" "1"
 				}
 				"Smooth_Method"
 				{
-					"Text" "Smooth Method"
+					"Text" "平滑方式"
 					"Version" "1"
 				}
 			}
@@ -293,88 +293,88 @@
 				{
 					"Radius"
 					{
-						"Text" "Radius"
+						"Text" "半径"
 						"Version" "1"
 					}
 					"Falloff"
 					{
-						"Text" "Falloff"
+						"Text" "减弱"
 						"Version" "1"
 					}
 					"Strength"
 					{
-						"Text" "Strength"
+						"Text" "增强"
 						"Version" "1"
 					}
 				}
 				"Use_Weight_Target"
 				{
-					"Text" "Use Weight Target"
+					"Text" "使用目标权重"
 					"Version" "1"
 				}
 				"Weight_Target"
 				{
-					"Text" "Weight Target"
+					"Text" "目标权重"
 					"Version" "1"
 				}
 				"Max_Preview_Samples"
 				{
-					"Text" "Max Preview Samples"
+					"Text" "预览样本 (Max)"
 					"Version" "1"
 				}
 				"Smooth_Method"
 				{
-					"Text" "Smooth Method"
+					"Text" "平滑方式"
 					"Version" "1"
 				}
 				"Use_Auto_Slope"
 				{
-					"Text" "Use Auto Slope"
+					"Text" "使用自动倾斜"
 					"Version" "1"
 				}
 				"Auto_Min_Angle_Begin"
 				{
-					"Text" "Min Angle Begin"
+					"Text" "起始角度 (Min)"
 					"Version" "1"
 				}
 				"Auto_Min_Angle_End"
 				{
-					"Text" "Min Angle End"
+					"Text" "终止角度 (Min)"
 					"Version" "1"
 				}
 				"Auto_Max_Angle_Begin"
 				{
-					"Text" "Max Angle Begin"
+					"Text" "起始角度 (Max)"
 					"Version" "1"
 				}
 				"Auto_Max_Angle_End"
 				{
-					"Text" "Max Angle End"
+					"Text" "终止角度 (Max)"
 					"Version" "1"
 				}
 				"Use_Auto_Foundation"
 				{
-					"Text" "Use Auto Foundation"
+					"Text" "使用自动基础值"
 					"Version" "1"
 				}
 				"Auto_Ray_Radius"
 				{
-					"Text" "Ray Radius"
+					"Text" "射线半径"
 					"Version" "2"
 				}
 				"Auto_Ray_Length"
 				{
-					"Text" "Ray Length"
+					"Text" "射线时长"
 					"Version" "1"
 				}
 				"Auto_Ray_Mask"
 				{
-					"Text" "Ray Mask"
+					"Text" "射线遮罩"
 					"Version" "1"
 				}
 				"Preview_Method"
 				{
-					"Text" "Preview Method"
+					"Text" "预览方式"
 					"Version" "1"
 				}
 			}
@@ -385,7 +385,7 @@
 			{
 				"Exit"
 				{
-					"Text" "Exit"
+					"Text" "退出"
 					"Version" "1"
 				}
 			}
@@ -393,12 +393,12 @@
 			{
 				"Undo"
 				{
-					"Text" "Undo"
+					"Text" "撤销"
 					"Version" "1"
 				}
 				"Redo"
 				{
-					"Text" "Redo"
+					"Text" "重做"
 					"Version" "1"
 				}
 			}
@@ -417,42 +417,42 @@
 			}
 			"Generic"
 			{
-				"Text" "Change"
+				"Text" "更改"
 				"Version" "1"
 			}
 			"Field_Delta"
 			{
-				"Text" "Change \"{0}\" field \"{1}\" from \"{2}\" to \"{3}\""
+				"Text" "更改 \"{0}\" 来自 \"{2}\" 字段 \"{1}\" 为 \"{3}\""
 				"Version" "1"
 			}
 			"Property_Delta"
 			{
-				"Text" "Change \"{0}\" property \"{1}\" from \"{2}\" to \"{3}\""
+				"Text" "更改 \"{0}\" 来自 \"{2}\" 属性 \"{1}\" 为 \"{3}\""
 				"Version" "1"
 			}
 			"Spawn"
 			{
-				"Text" "Spawn \"{0}\""
+				"Text" "生成 \"{0}\""
 				"Version" "1"
 			}
 			"Delete_Selection"
 			{
-				"Text" "Delete Selection"
+				"Text" "删除所选"
 				"Version" "1"
 			}
 			"Paste"
 			{
-				"Text" "Paste"
+				"Text" "粘贴"
 				"Version" "1"
 			}
 			"Transform"
 			{
-				"Text" "Transformation"
+				"Text" "变换"
 				"Version" "1"
 			}
 			"Translation"
 			{
-				"Text" "Translation"
+				"Text" "本地化"
 				"Version" "1"
 			}
 		}
@@ -462,7 +462,7 @@
 			{
 				"Title"
 				{
-					"Text" "Asset Browser"
+					"Text" "资产浏览器"
 					"Version" "1"
 				}
 			}
@@ -470,7 +470,7 @@
 			{
 				"Title"
 				{
-					"Text" "Content Browser"
+					"Text" "内容浏览器"
 					"Version" "1"
 				}
 			}
@@ -478,7 +478,7 @@
 			{
 				"Title"
 				{
-					"Text" "Foliage Tool"
+					"Text" "植被工具"
 					"Version" "1"
 				}
 			}
@@ -486,7 +486,7 @@
 			{
 				"Title"
 				{
-					"Text" "Hierarchy"
+					"Text" "层级视图"
 					"Version" "1"
 				}
 			}
@@ -494,7 +494,7 @@
 			{
 				"Title"
 				{
-					"Text" "Inspector"
+					"Text" "检查视图"
 					"Version" "1"
 				}
 				"Key"
@@ -512,17 +512,17 @@
 			{
 				"Title"
 				{
-					"Text" "Layout"
+					"Text" "布局"
 					"Version" "1"
 				}
 				"Load"
 				{
-					"Text" "Load"
+					"Text" "加载"
 					"Version" "1"
 				}
 				"Save"
 				{
-					"Text" "Save"
+					"Text" "保存"
 					"Version" "1"
 				}
 			}
@@ -530,7 +530,7 @@
 			{
 				"Title"
 				{
-					"Text" "Type Browser"
+					"Text" "类型浏览器"
 					"Version" "1"
 				}
 			}
@@ -538,17 +538,17 @@
 			{
 				"Title"
 				{
-					"Text" "Save"
+					"Text" "保存"
 					"Version" "1"
 				}
 				"Cancel"
 				{
-					"Text" "Cancel"
+					"Text" "取消"
 					"Version" "1"
 				}
 				"Submit"
 				{
-					"Text" "Save"
+					"Text" "确定"
 					"Version" "1"
 				}
 			}
@@ -556,7 +556,7 @@
 			{
 				"Title"
 				{
-					"Text" "Selection Tool"
+					"Text" "选择工具"
 					"Version" "1"
 				}
 			}
@@ -564,7 +564,7 @@
 			{
 				"Title"
 				{
-					"Text" "Landscape Tool"
+					"Text" "地形工具"
 					"Version" "1"
 				}
 				"Heightmap_Mode_Button"
@@ -587,7 +587,7 @@
 				{
 					"Label"
 					{
-						"Text" "Tile [3]"
+						"Text" "平铺 [3]"
 						"Version" "1"
 					}
 				}
@@ -595,7 +595,7 @@
 				{
 					"Label"
 					{
-						"Text" "Adjust [Q]"
+						"Text" "调整 [Q]"
 						"Version" "1"
 					}
 				}
@@ -603,7 +603,7 @@
 				{
 					"Label"
 					{
-						"Text" "Flatten [W]"
+						"Text" "平整 [W]"
 						"Version" "1"
 					}
 				}
@@ -611,7 +611,7 @@
 				{
 					"Label"
 					{
-						"Text" "Smooth [E]"
+						"Text" "平滑 [E]"
 						"Version" "1"
 					}
 				}
@@ -619,7 +619,7 @@
 				{
 					"Label"
 					{
-						"Text" "Ramp [R]"
+						"Text" "倾斜 [R]"
 						"Version" "1"
 					}
 				}
@@ -627,7 +627,7 @@
 				{
 					"Label"
 					{
-						"Text" "Radius [B]"
+						"Text" "半径 [B]"
 						"Version" "1"
 					}
 				}
@@ -635,7 +635,7 @@
 				{
 					"Label"
 					{
-						"Text" "Falloff [F]"
+						"Text" "减弱 [F]"
 						"Version" "1"
 					}
 				}
@@ -643,7 +643,7 @@
 				{
 					"Label"
 					{
-						"Text" "Strength [V]"
+						"Text" "增强 [V]"
 						"Version" "1"
 					}
 				}
@@ -651,7 +651,7 @@
 				{
 					"Label"
 					{
-						"Text" "Flatten Target [Alt]"
+						"Text" "平整目标 [Alt]"
 						"Version" "1"
 					}
 				}
@@ -659,17 +659,17 @@
 				{
 					"Label"
 					{
-						"Text" "Smooth Method"
+						"Text" "平滑方式"
 						"Version" "1"
 					}
 					"Brush_Average"
 					{
-						"Text" "Brush Average"
+						"Text" "平均 (笔刷) "
 						"Version" "1"
 					}
 					"Pixel_Average"
 					{
-						"Text" "Pixel Average"
+						"Text" "平均 (像素) "
 						"Version" "1"
 					}
 				}
@@ -677,7 +677,7 @@
 				{
 					"Label"
 					{
-						"Text" "Radius [B]"
+						"Text" "半径 [B]"
 						"Version" "1"
 					}
 				}
@@ -685,7 +685,7 @@
 				{
 					"Label"
 					{
-						"Text" "Falloff [F]"
+						"Text" "减弱 [F]"
 						"Version" "1"
 					}
 				}
@@ -693,7 +693,7 @@
 				{
 					"Label"
 					{
-						"Text" "Strength [V]"
+						"Text" "增强 [V]"
 						"Version" "1"
 					}
 				}
@@ -701,7 +701,7 @@
 				{
 					"Label"
 					{
-						"Text" "Use Weight Target [Ctrl]"
+						"Text" "使用目标权重 [Ctrl]"
 						"Version" "1"
 					}
 				}
@@ -709,7 +709,7 @@
 				{
 					"Label"
 					{
-						"Text" "Weight Target [G]"
+						"Text" "目标权重 [G]"
 						"Version" "1"
 					}
 				}
@@ -717,7 +717,7 @@
 				{
 					"Label"
 					{
-						"Text" "Material Set"
+						"Text" "实体设置"
 						"Version" "1"
 					}
 				}
@@ -726,17 +726,17 @@
 			{
 				"Title"
 				{
-					"Text" "Transactions"
+					"Text" "提交"
 					"Version" "1"
 				}
 				"Undo"
 				{
-					"Text" "Undo:"
+					"Text" "撤消:"
 					"Version" "1"
 				}
 				"Redo"
 				{
-					"Text" "Redo:"
+					"Text" "重做:"
 					"Version" "1"
 				}
 			}
@@ -744,57 +744,57 @@
 			{
 				"Title"
 				{
-					"Text" "Translations"
+					"Text" "翻译/本地化"
 					"Version" "4"
 				}
 				"Edit_Origin"
 				{
-					"Text" "Edit Origin \"{0}\""
+					"Text" "编辑 来源 \"{0}\""
 					"Version" "3"
 				}
 				"Edit_Translation"
 				{
-					"Text" "Edit Translation \"{0}\""
+					"Text" "编辑 翻译/本地化 \"{0}\""
 					"Version" "2"
 				}
 				"Origin_Misses"
 				{
-					"Text" "Origin \"{0}\" Misses"
+					"Text" "来源 \"{0}\" 缺失"
 					"Version" "3"
 				}
 				"Origin_Translation_Delta"
 				{
-					"Text" "Origin \"{0}\" -> Translation \"{1}\" Delta "
+					"Text" "来源 \"{0}\" ->  已翻译/本地化 新增词条 \"{1}\" "
 					"Version" "2"
 				}
 				"Tree_Back"
 				{
-					"Text" "Back"
+					"Text" "返回"
 					"Version" "1"
 				}
 				"Tree_Add_Leaf"
 				{
-					"Text" "+Leaf"
+					"Text" " (+) 页面"
 					"Version" "1"
 				}
 				"Tree_Add_Branch"
 				{
-					"Text" "+Branch"
+					"Text" " (+) 分支"
 					"Version" "1"
 				}
 				"Clear_Misses"
 				{
-					"Text" "Clear Misses"
+					"Text" "清除 缺失词条"
 					"Version" "1"
 				}
 				"Refresh_Misses"
 				{
-					"Text" "Refresh Misses"
+					"Text" "刷新 缺失词条"
 					"Version" "1"
 				}
 				"Refresh_Delta"
 				{
-					"Text" "Refresh Delta"
+					"Text" "刷新 新增词条"
 					"Version" "1"
 				}
 			}
@@ -802,17 +802,17 @@
 			{
 				"Title"
 				{
-					"Text" "Load"
+					"Text" "加载"
 					"Version" "1"
 				}
 				"Cancel"
 				{
-					"Text" "Cancel"
+					"Text" "取消"
 					"Version" "1"
 				}
 				"Submit"
 				{
-					"Text" "Load"
+					"Text" "确定"
 					"Version" "1"
 				}
 			}
@@ -820,17 +820,17 @@
 			{
 				"Title"
 				{
-					"Text" "File Browser"
+					"Text" "文件浏览器"
 					"Version" "1"
 				}
 				"Cancel"
 				{
-					"Text" "Cancel"
+					"Text" "取消"
 					"Version" "1"
 				}
 				"Submit"
 				{
-					"Text" "Select"
+					"Text" "选择"
 					"Version" "1"
 				}
 			}
@@ -838,14 +838,14 @@
 			{
 				"Title"
 				{
-					"Text" "UGC Upload Wizard"
+					"Text" "上传向导 (UGC)"
 					"Version" "1"
 				}
 				"Content_Path"
 				{
 					"Name"
 					{
-						"Text" "Content Path"
+						"Text" "内容路径"
 						"Version" "1"
 					}
 				}
@@ -853,7 +853,7 @@
 				{
 					"Name"
 					{
-						"Text" "Preview Image Path"
+						"Text" "预览图片路径"
 						"Version" "1"
 					}
 				}
@@ -861,7 +861,7 @@
 				{
 					"Name"
 					{
-						"Text" "Visibility"
+						"Text" "可见性"
 						"Version" "1"
 					}
 				}
@@ -869,7 +869,7 @@
 				{
 					"Name"
 					{
-						"Text" "Curated"
+						"Text" "待采纳"
 						"Version" "1"
 					}
 				}
@@ -877,7 +877,7 @@
 				{
 					"Label"
 					{
-						"Text" "Legal Agreement"
+						"Text" "协议条款"
 						"Version" "1"
 					}
 				}
@@ -885,7 +885,7 @@
 				{
 					"Label"
 					{
-						"Text" "Create New"
+						"Text" "新建项目"
 						"Version" "1"
 					}
 				}
@@ -893,7 +893,7 @@
 				{
 					"Name"
 					{
-						"Text" "Item Name"
+						"Text" "项目名称"
 						"Version" "1"
 					}
 				}
@@ -901,7 +901,7 @@
 				{
 					"Name"
 					{
-						"Text" "Item Description"
+						"Text" "项目描述"
 						"Version" "1"
 					}
 				}
@@ -909,7 +909,7 @@
 				{
 					"Name"
 					{
-						"Text" "Change Note"
+						"Text" "修改说明"
 						"Version" "1"
 					}
 				}
@@ -917,7 +917,7 @@
 				{
 					"Name"
 					{
-						"Text" "Item Type"
+						"Text" "项目类型"
 						"Version" "1"
 					}
 				}
@@ -925,7 +925,7 @@
 				{
 					"Name"
 					{
-						"Text" "Item Tag"
+						"Text" "项目标签"
 						"Version" "1"
 					}
 				}
@@ -934,14 +934,14 @@
 			{
 				"Title"
 				{
-					"Text" "Skin Creator Wizard"
+					"Text" "创建向导 (Skin)"
 					"Version" "2"
 				}
 				"Item_ID"
 				{
 					"Name"
 					{
-						"Text" "Item ID"
+						"Text" "物品 ID"
 						"Version" "1"
 					}
 				}
@@ -949,7 +949,7 @@
 				{
 					"Name"
 					{
-						"Text" "Primary Skin"
+						"Text" "物品主体皮肤"
 						"Version" "1"
 					}
 				}
@@ -957,7 +957,7 @@
 				{
 					"Name"
 					{
-						"Text" "Albedo Path"
+						"Text" "反射率 (Albedo) 文件路径"
 						"Version" "1"
 					}
 				}
@@ -965,7 +965,7 @@
 				{
 					"Name"
 					{
-						"Text" "Metallic Path"
+						"Text" "金属度 (Metallic) 文件路径"
 						"Version" "1"
 					}
 				}
@@ -973,7 +973,7 @@
 				{
 					"Name"
 					{
-						"Text" "Emission Path"
+						"Text" "自发光 (Emission) 文件路径"
 						"Version" "1"
 					}
 				}
@@ -981,7 +981,7 @@
 				{
 					"Name"
 					{
-						"Text" "Secondary Skins"
+						"Text" "物品手持皮肤"
 						"Version" "1"
 					}
 				}
@@ -989,7 +989,7 @@
 				{
 					"Name"
 					{
-						"Text" "Tertiary Skin"
+						"Text" "物品穿戴皮肤"
 						"Version" "1"
 					}
 				}
@@ -997,7 +997,7 @@
 				{
 					"Name"
 					{
-						"Text" "Attachment Skin"
+						"Text" "物品附加皮肤"
 						"Version" "1"
 					}
 				}
@@ -1005,7 +1005,7 @@
 				{
 					"Name"
 					{
-						"Text" "Output Path"
+						"Text" "输出路径"
 						"Version" "1"
 					}
 				}
@@ -1013,7 +1013,7 @@
 				{
 					"Label"
 					{
-						"Text" "Export"
+						"Text" "导出"
 						"Version" "2"
 					}
 				}
@@ -1022,14 +1022,14 @@
 			{
 				"Title"
 				{
-					"Text" "Skin Acceptor Wizard"
+					"Text" "采纳向导 (Skin)"
 					"Version" "1"
 				}
 				"Workshop_ID"
 				{
 					"Name"
 					{
-						"Text" "Workshop ID"
+						"Text" "ID (Workshop)"
 						"Version" "1"
 					}
 				}
@@ -1037,7 +1037,7 @@
 				{
 					"Name"
 					{
-						"Text" "Pattern ID"
+						"Text" "ID (Pattern)"
 						"Version" "1"
 					}
 				}
@@ -1045,7 +1045,7 @@
 				{
 					"Label"
 					{
-						"Text" "Import"
+						"Text" "导入"
 						"Version" "1"
 					}
 				}
@@ -1053,7 +1053,7 @@
 				{
 					"Name"
 					{
-						"Text" "Econ Name"
+						"Text" "Econ 名称"
 						"Version" "1"
 					}
 				}
@@ -1061,7 +1061,7 @@
 				{
 					"Name"
 					{
-						"Text" "Econ Description"
+						"Text" "Econ 描述"
 						"Version" "1"
 					}
 				}
@@ -1069,7 +1069,7 @@
 				{
 					"Name"
 					{
-						"Text" "Economy Type"
+						"Text" "Economy 类型"
 						"Version" "1"
 					}
 				}
@@ -1077,7 +1077,7 @@
 				{
 					"Name"
 					{
-						"Text" "Icon Item ID"
+						"Text" "图标 ID (Item)"
 						"Version" "1"
 					}
 				}
@@ -1085,7 +1085,7 @@
 				{
 					"Name"
 					{
-						"Text" "Icon Skin ID"
+						"Text" "图标 ID (Skin)"
 						"Version" "1"
 					}
 				}
@@ -1093,7 +1093,7 @@
 				{
 					"Label"
 					{
-						"Text" "Capture Icon"
+						"Text" "捕获图标"
 						"Version" "1"
 					}
 				}
@@ -1101,7 +1101,7 @@
 				{
 					"Name"
 					{
-						"Text" "Icon Econ ID"
+						"Text" "图标 ID (Econ)"
 						"Version" "1"
 					}
 				}
@@ -1110,7 +1110,7 @@
 			{
 				"Title"
 				{
-					"Text" "Object Browser"
+					"Text" "对象浏览器"
 					"Version" "1"
 				}
 			}
@@ -1118,7 +1118,7 @@
 			{
 				"Title"
 				{
-					"Text" "Visibility"
+					"Text" "可见性"
 					"Version" "1"
 				}
 			}
@@ -1127,37 +1127,37 @@
 		{
 			"Snap_Position"
 			{
-				"Text" "Snap Position"
+				"Text" "快照位置"
 				"Version" "1"
 			}
 			"Snap_Rotation"
 			{
-				"Text" "Snap Rotation"
+				"Text" "快照角度"
 				"Version" "1"
 			}
 			"Snap_Scale"
 			{
-				"Text" "Snap Scale"
+				"Text" "快照范围"
 				"Version" "1"
 			}
 			"Surface_Offset"
 			{
-				"Text" "Surface Offset"
+				"Text" "表面偏移"
 				"Version" "1"
 			}
 			"Surface_Align"
 			{
-				"Text" "Surface Align"
+				"Text" "表面对齐"
 				"Version" "1"
 			}
 			"Local_Space"
 			{
-				"Text" "Local Space"
+				"Text" "本地空间"
 				"Version" "1"
 			}
 			"Lock_Handles"
 			{
-				"Text" "Lock Handles"
+				"Text" "锁定控键"
 				"Version" "2"
 			}
 		}
@@ -1167,65 +1167,65 @@
 			{
 				"Radius"
 				{
-					"Text" "Radius"
+					"Text" "半径"
 					"Version" "1"
 				}
 				"Falloff"
 				{
-					"Text" "Falloff"
+					"Text" "减弱"
 					"Version" "1"
 				}
 				"Strength"
 				{
-					"Text" "Strength"
+					"Text" "增强"
 					"Version" "1"
 				}
 			}
 			"Density_Target"
 			{
-				"Text" "Density Target"
+				"Text" "目标密度"
 				"Version" "1"
 			}
 			"Max_Preview_Samples"
 			{
-				"Text" "Max Preview Samples"
+				"Text" "预览样本 (Max)"
 				"Version" "1"
 			}
 			"Surface_Mask"
 			{
-				"Text" "Surface Mask"
+				"Text" "表面遮罩"
 				"Version" "1"
 			}
 			"Selection_Mask"
 			{
-				"Text" "Selection Mask"
+				"Text" "选择遮罩"
 				"Version" "1"
 			}
 			"Bake"
 			{
 				"Instanced_Meshes"
 				{
-					"Text" "Bake Instanced Meshes"
+					"Text" "烘焙实例化网格"
 					"Version" "1"
 				}
 				"Resources"
 				{
-					"Text" "Bake Resources"
+					"Text" "烘焙资源"
 					"Version" "1"
 				}
 				"Objects"
 				{
-					"Text" "Bake Objects"
+					"Text" "烘焙对象"
 					"Version" "1"
 				}
 				"Clear"
 				{
-					"Text" "Bake Clear"
+					"Text" "清理烘焙"
 					"Version" "1"
 				}
 				"Apply_Scale"
 				{
-					"Text" "Apply Scale"
+					"Text" "应用尺寸"
 					"Version" "1"
 				}
 			}
@@ -1236,7 +1236,7 @@
 			{
 				"PairID"
 				{
-					"Text" "Pair ID"
+					"Text" "匹配 ID"
 					"Version" "1"
 				}
 			}
@@ -1252,70 +1252,70 @@
 			{
 				"Players"
 				{
-					"Text" "Kill Players"
+					"Text" "清除玩家"
 					"Version" "1"
 				}
 				"Zombies"
 				{
-					"Text" "Kill Zombies"
+					"Text" "清除僵尸"
 					"Version" "1"
 				}
 				"Animals"
 				{
-					"Text" "Kill Animals"
+					"Text" "清除动物"
 					"Version" "1"
 				}
 				"Vehicles"
 				{
-					"Text" "Kill Vehicles"
+					"Text" "清除载具"
 					"Version" "1"
 				}
 			}
 			"Death_Cause"
 			{
-				"Text" "Death Cause"
+				"Text" "死亡因素"
 				"Version" "1"
 			}
 			"Ambiance"
 			{
 				"ID"
 				{
-					"Text" "ID"
+					"Text" "ID (环境)"
 					"Version" "1"
 				}
 				"No_Water"
 				{
-					"Text" "No Water"
+					"Text" "缺少水"
 					"Version" "1"
 				}
 				"No_Lighting"
 				{
-					"Text" "No Lighting"
+					"Text" "无光照"
 					"Version" "1"
 				}
 				"Override_Fog"
 				{
-					"Text" "Override Fog"
+					"Text" "覆盖 (雾)"
 					"Version" "1"
 				}
 				"Fog_Color"
 				{
-					"Text" "Fog Color"
+					"Text" "颜色 (雾) "
 					"Version" "1"
 				}
 				"Fog_Height"
 				{
-					"Text" "Fog Height"
+					"Text" "高度 (雾) "
 					"Version" "1"
 				}
 				"Can_Rain"
 				{
-					"Text" "Can Rain"
+					"Text" "允许下雨"
 					"Version" "1"
 				}
 				"Can_Snow"
 				{
-					"Text" "Can Snow"
+					"Text" "允许下雪"
 					"Version" "1"
 				}
 			}
@@ -1326,22 +1326,22 @@
 			{
 				"Water_Type"
 				{
-					"Text" "Water Type"
+					"Text" "水的类型"
 					"Version" "1"
 				}
 				"Is_Surface_Visible"
 				{
-					"Text" "Is Surface Visible"
+					"Text" "表面可见"
 					"Version" "1"
 				}
 				"Is_Reflection_Visible"
 				{
-					"Text" "Is Reflection Visible"
+					"Text" "反射可见"
 					"Version" "1"
 				}
 				"Is_Sea_Level"
 				{
-					"Text" "Is Sea Level"
+					"Text" "海平面"
 					"Version" "1"
 				}
 			}
@@ -1354,17 +1354,17 @@
 				{
 					"Internal_Name"
 					{
-						"Text" "Internal Name"
+						"Text" "隐藏的名称"
 						"Version" "1"
 					}
 					"Display_Name"
 					{
-						"Text" "Display Name"
+						"Text" "显示的名称"
 						"Version" "1"
 					}
 					"Is_Visible"
 					{
-						"Text" "Is Visible"
+						"Text" "可见性"
 						"Version" "1"
 					}
 				}
@@ -1372,94 +1372,94 @@
 				{
 					"Is_Wireframe_Visible"
 					{
-						"Text" "Is Wireframe Visible"
+						"Text" "线框可见"
 						"Version" "1"
 					}
 					"Wireframe_Color"
 					{
-						"Text" "Wireframe Color"
+						"Text" "线框颜色"
 						"Version" "1"
 					}
 					"Wireframe_Depth"
 					{
-						"Text" "Wireframe Depth"
+						"Text" "线框深度"
 						"Version" "1"
 					}
 					"Is_Surface_Visible"
 					{
-						"Text" "Is Surface Visible"
+						"Text" "表面可见"
 						"Version" "1"
 					}
 					"Surface_Color"
 					{
-						"Text" "Surface Color"
+						"Text" "表面颜色"
 						"Version" "1"
 					}
 					"Surface_Depth"
 					{
-						"Text" "Surface Depth"
+						"Text" "表面深度"
 						"Version" "1"
 					}
 				}
 			}
 			"Foliage_Instanced_Meshes"
 			{
-				"Text" "Foliage Instanced Meshes"
+				"Text" "实例化植被网格"
 				"Version" "1"
 			}
 			"Decal_Volumes"
 			{
-				"Text" "Decal Volumes"
+				"Text" "#Decal_Volumes"
 				"Version" "1"
 			}
 			"Water_Volumes"
 			{
-				"Text" "Water Volumes"
+				"Text" "#Water_Volumes"
 				"Version" "1"
 			}
 			"Landscape_Hole_Volumes"
 			{
-				"Text" "Landscape Hole Volumes"
+				"Text" "#Landscape_Hole_Volumes"
 				"Version" "1"
 			}
 			"Player_Clip_Volumes"
 			{
-				"Text" "Player Clip Volumes"
+				"Text" "#Player_Clip_Volumes"
 				"Version" "1"
 			}
 			"Foliage_Volumes"
 			{
-				"Text" "Foliage Volumes"
+				"Text" "#Foliage_Volumes"
 				"Version" "1"
 			}
 			"Kill_Volumes"
 			{
-				"Text" "Kill Volumes"
+				"Text" "#Kill_Volumes"
 				"Version" "1"
 			}
 			"Spawnpoints"
 			{
-				"Text" "Spawnpoints"
+				"Text" "出生点"
 				"Version" "1"
 			}
 			"Effect_Volumes"
 			{
-				"Text" "Effect Volumes"
+				"Text" "#Effect_Volumes"
 				"Version" "1"
 			}
 			"Nav_Clip_Volumes"
 			{
-				"Text" "Nav Clip Volumes"
+				"Text" "#Nav_Clip_Volumes"
 				"Version" "1"
 			}
 			"Ambiance_Volumes"
 			{
-				"Text" "Ambiance Volumes"
+				"Text" "#Ambiance_Volumes"
 				"Version" "1"
 			}
 			"Deadzone_Volumes"
 			{
-				"Text" "Deadzone Volumes"
+				"Text" "辐射区区域"
 				"Version" "1"
 			}
 		}
