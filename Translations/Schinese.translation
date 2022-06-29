@@ -262,12 +262,12 @@
 					}
 					"Falloff"
 					{
-						"Text" "减弱"
+						"Text" "衰减"
 						"Version" "1"
 					}
 					"Strength"
 					{
-						"Text" "增强"
+						"Text" "强度"
 						"Version" "1"
 					}
 				}
@@ -298,12 +298,12 @@
 					}
 					"Falloff"
 					{
-						"Text" "减弱"
+						"Text" "衰减"
 						"Version" "1"
 					}
 					"Strength"
 					{
-						"Text" "增强"
+						"Text" "强度"
 						"Version" "1"
 					}
 				}
@@ -635,7 +635,7 @@
 				{
 					"Label"
 					{
-						"Text" "减弱 [F]"
+						"Text" "衰减 [F]"
 						"Version" "1"
 					}
 				}
@@ -643,7 +643,7 @@
 				{
 					"Label"
 					{
-						"Text" "增强 [V]"
+						"Text" "强度 [V]"
 						"Version" "1"
 					}
 				}
@@ -685,7 +685,7 @@
 				{
 					"Label"
 					{
-						"Text" "减弱 [F]"
+						"Text" "衰减 [F]"
 						"Version" "1"
 					}
 				}
@@ -693,7 +693,7 @@
 				{
 					"Label"
 					{
-						"Text" "增强 [V]"
+						"Text" "强度 [V]"
 						"Version" "1"
 					}
 				}
@@ -1172,12 +1172,12 @@
 				}
 				"Falloff"
 				{
-					"Text" "减弱"
+					"Text" "衰减"
 					"Version" "1"
 				}
 				"Strength"
 				{
-					"Text" "增强"
+					"Text" "强度"
 					"Version" "1"
 				}
 			}
@@ -1404,7 +1404,7 @@
 			}
 			"Foliage_Instanced_Meshes"
 			{
-				"Text" "实例化植被网格"
+				"Text" "#Foliage_Instanced_Meshes"
 				"Version" "1"
 			}
 			"Decal_Volumes"
@@ -1444,7 +1444,7 @@
 			}
 			"Effect_Volumes"
 			{
-				"Text" "#Effect_Volumes"
+				"Text" "效果范围"
 				"Version" "1"
 			}
 			"Nav_Clip_Volumes"
@@ -1459,7 +1459,7 @@
 			}
 			"Deadzone_Volumes"
 			{
-				"Text" "辐射区区域"
+				"Text" "辐射区范围"
 				"Version" "1"
 			}
 		}
