@@ -122,6 +122,10 @@ Pro_Button_Tooltip Click here to view the store page.
 BattlEye_Header Warning: BattlEye(战眼) 已被禁用！
 BattlEye_Body BattlEye反作弊系统没有运行，所以你不能加入被BattlEye反作弊保护的服务器。如果你卸载了BattlEye或者跳过了安装步骤，那么你可以通过运行Unturned/BattlEye文件夹中的Install_BattlEye.bat脚本来重新安装它。
 
+UpdateAvailable An update to version {0} is available! If you have automatic updates enabled it will download and install after you close the game.
+
 Overlay Steam 游戏内置界面未被开启 [请使用Steam启动游戏]
 Dismiss_Notification_Label 确定
 Dismiss_Notification_Tooltip 关闭通知
+Copy_Notification_Label Copy to Clipboard
+Copy_Notification_Tooltip Copy message to system clipboard.
