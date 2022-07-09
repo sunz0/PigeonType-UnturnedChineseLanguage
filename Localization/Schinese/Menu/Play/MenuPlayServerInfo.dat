@@ -1,28 +1,28 @@
-Password_Field_Label Password
-Password_Field_Replace #
+Password_Field_Label 密码
+Password_Field_Replace *
 
-Join_Button Join
-Join_Button_Tooltip Connect
-Refresh_Button Refresh
-Refresh_Button_Tooltip Refresh
-Cancel_Button Cancel
-Cancel_Button_Tooltip Back
+Join_Button 加入
+Join_Button_Tooltip 链接
+Refresh_Button 刷新
+Refresh_Button_Tooltip 刷新服务器状态
+Cancel_Button 取消
+Cancel_Button_Tooltip 返回
 
-Favorite_On_Button Favorite
-Favorite_Off_Button Unfavorite
-Favorite_Button_Tooltip Favorite/Unfavorite
+Favorite_On_Button 收藏
+Favorite_Off_Button 取消收藏
+Favorite_Button_Tooltip 收藏/取消搜藏
 
-Players Players: {0}/{1}
-Details Details
-Map Map: {0}
+Players 在线玩家: {0}/{1}
+Details 服务器详细
+Map 地图: {0}
 
-Workshop Workshop: {0}
-Combat Combat: {0}
-Perspective Perspective: {0}
-Security Security: {0}
-Mode Mode: {0}
-Cheats Cheats: {0}
-GameMode Game: {0}
+Workshop 创意工坊: {0}
+Combat 战斗: {0}
+Perspective 视角: {0}
+Security 安全: {0}
+Mode 模式: {0}
+Cheats 作弊: {0}
+GameMode 游戏: {0}
 
 Monetization_None Monetization: None
 Monetization_NonGameplay Monetization: Non-Gameplay
@@ -30,43 +30,43 @@ HostBan_MonetizationWarning Warning: this server is breaking the monetization ru
 HostBan_WorkshopWarning Warning: the workshop files used by this server have been banned.
 HostBan_Apology Message from the game developers: our apologies for mistakenly flagging your server! We are sorry for the trouble and will do our best to prevent it from happening again in the future.
 
-Yes Enabled
-No Disabled
+Yes 启用
+No 禁用
 
-PvP Player vs Player
-PvE Player vs Environment
+PvP 玩家 vs 玩家
+PvE 玩家 vs 环境
 
-First First Person
-Third Third Person
-Both First and Third Person
-Vehicle Vehicle Third Person
+First 仅第一人称
+Third 仅第三人称
+Both 第一/三人称
+Vehicle 仅载具第三人称
 
-VAC_Secure VAC Enabled
-VAC_Insecure VAC Disabled
+VAC_Secure VAC 启用
+VAC_Insecure VAC 关闭
 
-BattlEye_Secure BattlEye Required
-BattlEye_Insecure BattlEye Disabled
+BattlEye_Secure 需要战眼
+BattlEye_Insecure 不需要战眼
 
 Subscribe +
-Subscribe_Tooltip Subscribe to {0}
+Subscribe_Tooltip 订阅 {0}
 Unsubscribe -
-Unsubscribe_Tooltip Unsubscribe from {0}
+Unsubscribe_Tooltip 取消订阅 {0}
 
-Easy Easy
-Normal Normal
-Hard Hard
+Easy 简单
+Normal 普通
+Hard 困难
 
-Server Server:
-UGC Workshop:
-Config Configuration:
+Server 服务器:
+UGC 创意工坊:
+Config 设置:
 Rule {0}: {1}
-Plugins_Rocket Rocket Plugins:
-Plugins_OpenMod OpenMod Plugins:
-Plugins_Unknown Plugins:
+Plugins_Rocket Rocket 框架插件:
+Plugins_OpenMod OpenMod 框架插件:
+Plugins_Unknown 未知框架 插件:
 
-ServerNewerVersion_Label Server running a newer version: {0}
-ServerNewerVersion_Tooltip Cannot join because this server is running a newer version of the game. Restart your client to update.
-ServerOlderVersion_Label Server running an older version: {0}
-ServerOlderVersion_Tooltip Cannot join because this server is running an older version of the game. Host needs to update.
-ServerBlacklisted_Label This server is banned.
-ServerBlacklisted_Tooltip Cannot join because the server has been banned.
+ServerNewerVersion_Label 服务器运行着 {0} 较新的版本
+ServerNewerVersion_Tooltip 无法加入这个服务器因为服务器运行了一个比你现在客户端新的版本，重启游戏更新。
+ServerOlderVersion_Label 服务器运行着 {0} 较久的版本
+ServerOlderVersion_Tooltip 无法加入这个服务器因为服务器运行了一个比你现在客户端旧的版本，需要服务器更新。
+ServerBlacklisted_Label 服务器已经被封禁
+ServerBlacklisted_Tooltip 无法加入服务器因为服务器被封禁了。
