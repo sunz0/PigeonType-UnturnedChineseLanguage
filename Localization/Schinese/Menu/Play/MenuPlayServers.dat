@@ -1,33 +1,33 @@
-Server_Button {0} on {1}
+Server_Button {0} 在 {1} 上
 Server_Players {0}/{1}
 
-Name_Field_Hint Server Name Filter
-Password_Field_Hint Server Password
-Password_Field_Replace #
-Map_Field_Hint Map Filter
+Name_Field_Hint 服务器名称过滤
+Password_Field_Hint 服务器密码
+Password_Field_Replace *
+Map_Field_Hint 地图过滤
 
-Refresh_Label Search Category:
+Refresh_Label 搜索类别:
 
-Refresh_Gold_Button Gold
-Refresh_Gold_Button_Tooltip Find servers that only allow gold members.
+Refresh_Gold_Button 黄金服务器
+Refresh_Gold_Button_Tooltip 寻找只对黄金升级过的人开放的服务器
 
-Refresh_Internet_Button Internet
-Refresh_Internet_Button_Tooltip Find servers on the internet.
+Refresh_Internet_Button 互联网
+Refresh_Internet_Button_Tooltip 寻找服务器在互联网上
 
-Refresh_LAN_Button LAN
-Refresh_LAN_Button_Tooltip Find servers on local network.
+Refresh_LAN_Button 局域网
+Refresh_LAN_Button_Tooltip 寻找在本地网络的服务器
 
-Refresh_History_Button History
-Refresh_History_Button_Tooltip Find previously played on servers.
+Refresh_History_Button 历史
+Refresh_History_Button_Tooltip 寻找你玩过的服务器
 
-Refresh_Favorites_Button Favorites
-Refresh_Favorites_Button_Tooltip Find favorited servers.
+Refresh_Favorites_Button 收藏
+Refresh_Favorites_Button_Tooltip 寻找收藏的服务器
 
-Refresh_Friends_Button Friends
-Refresh_Friends_Button_Tooltip Find servers friends are playing on.
+Refresh_Friends_Button 朋友
+Refresh_Friends_Button_Tooltip 寻找朋友正在玩的服务器
 
-HostingButtonText Hosting
-HostingButtonTooltip Read server hosting documentation.
+HostingButtonText 开服
+HostingButtonTooltip 阅读开服文档
 
 Any_Password_Button 任何密码
 Yes_Password_Button 需要密码
@@ -41,16 +41,16 @@ Any_Plugins_Button 任何插件
 Yes_Plugins_Button 有插件
 No_Plugins_Button 无插件
 
-Attendance_Toggle Playing
-Security_Toggle Secure
+Attendance_Toggle 游玩中
+Security_Toggle 安全
 PvP_Toggle PvP
 
-Any_Attendance_Button Any Attendance
-Empty_Button Empty
-HasPlayers_Button Has Players
+Any_Attendance_Button 任何在线情况
+Empty_Button 无在线
+HasPlayers_Button 有在线
 
-Any_Space_Button Include Full
-Space_Button Has Available Slots
+Any_Space_Button 满
+Space_Button 有位置
 
 VAC_Any_Button 任何VAC
 VAC_Secure_Button VAC 安全
@@ -61,8 +61,8 @@ BattlEye_Secure_Button BattlEye反作弊需要
 BattlEye_Insecure_Button BattlEye反作弊禁用
 
 Any_Combat_Button 任何模式
-PvP_Button PVP
-PvE_Button PVE
+PvP_Button PVP（可玩家互相伤害）
+PvE_Button PVE（仅对生物伤害）
 
 Any_Cheats_Button 任何反作弊
 Yes_Cheats_Button 反作弊开

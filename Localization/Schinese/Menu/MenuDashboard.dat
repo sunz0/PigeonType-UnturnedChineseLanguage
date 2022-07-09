@@ -115,17 +115,17 @@ SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam遇到了连接问�
 SteamNetworkingSockets_EndReason_Misc_Unknown 未知的杂项连接错误：{0}
 SteamNetworkingSockets_EndReason_Unknown 连接因未知原因结束：{0}
 
-Pro_Title Permanent Gold Upgrade
-Pro_Button Gain access to extra character customization, premium servers, character slots and more by upgrading to a Gold account! Further details available on the store page.
-Pro_Button_Tooltip Click here to view the store page.
+Pro_Title 永久黄金升级
+Pro_Button 升级到黄金账户后，可以更加自定义的打扮你的角色，可以进入黄金服务器，有更多的角色保存位置，更多详情请见商店页面。
+Pro_Button_Tooltip 点击这里查看商店页面。
 
 BattlEye_Header Warning: BattlEye(战眼) 已被禁用！
 BattlEye_Body BattlEye反作弊系统没有运行，所以你不能加入被BattlEye反作弊保护的服务器。如果你卸载了BattlEye或者跳过了安装步骤，那么你可以通过运行Unturned/BattlEye文件夹中的Install_BattlEye.bat脚本来重新安装它。
 
-UpdateAvailable An update to version {0} is available! If you have automatic updates enabled it will download and install after you close the game.
+UpdateAvailable Unturned {0} 版本的更新已经可用! 如果你启用了自动更新，更新将在你关闭游戏后自动开始。
 
 Overlay Steam 游戏内置界面未被开启 [请使用Steam启动游戏]
 Dismiss_Notification_Label 确定
 Dismiss_Notification_Tooltip 关闭通知
-Copy_Notification_Label Copy to Clipboard
-Copy_Notification_Tooltip Copy message to system clipboard.
+Copy_Notification_Label 复制到剪切板
+Copy_Notification_Tooltip 复制到系统自带的剪切板
