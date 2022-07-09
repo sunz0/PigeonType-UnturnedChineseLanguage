@@ -9,7 +9,7 @@ Size_X 2
 Size_Y 1
 Size_Z 0.3
 
-Health 800
+Health 1650
 Range 8
 
 Explosion 19
@@ -21,3 +21,5 @@ Blueprint_0_Supply_0_ID 74
 Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
 PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Has_Clip_Prefab false
